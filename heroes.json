@@ -750,6 +750,24 @@
    ]
   },
   {
+   "id": "neerja-bhanot",
+   "name": "Neerja Bhanot",
+   "blurb": "Hid passports, opened an exit, and shielded three children on a hijacked plane",
+   "month": 9,
+   "day": 7,
+   "year": 1963,
+   "anchor_reason": "Her birthday. She was killed on 5 September 1986, two days before she turned twenty-three.",
+   "date_confidence": "verified",
+   "story": "Neerja Bhanot was the senior flight attendant on Pan Am Flight 73 when it stopped in Karachi, Pakistan, on the morning of 5 September 1986. Four armed men stormed the plane on the ground. Neerja warned the cockpit at once, and the three pilots climbed out through an overhead hatch, so the plane could not take off. The hijackers wanted the American passengers first. They ordered the crew to collect passports. Neerja and her crew hid the American passports under seats and down a garbage chute, so the gunmen could not tell who was who. The standoff lasted seventeen hours. When the plane lost power, the hijackers began shooting and throwing grenades in the dark. Neerja got an emergency door open and passengers poured out. She stayed at the door and was shot while covering three children with her own body. In 1987 India gave her the Ashoka Chakra, its highest award for bravery in peacetime. She was the first woman to receive it. She was twenty-two, and she gave up her life so that other people's children could get off that plane.",
+   "contested": "Accounts differ on how many people were on board and how many she saved; figures from 360 to 379 passengers appear in different sources.",
+   "sources": [
+    "https://www.panam.org/global-era/neerja-bhanot",
+    "https://en.wikipedia.org/wiki/Neerja_Bhanot",
+    "https://www.tribuneindia.com/news/archive/spectrum/the-girl-who-dared-169513/",
+    "https://www.thefamouspeople.com/profiles/neerja-bhanot-7026.php"
+   ]
+  },
+  {
    "id": "john-snow",
    "name": "John Snow",
    "blurb": "Traced London cholera to one water pump and had the handle removed",
@@ -767,6 +785,41 @@
    ]
   },
   {
+   "id": "dirk-boonstra",
+   "name": "Dirk Boonstra",
+   "blurb": "Dutch village policeman who refused three times to arrest seven elderly Jews",
+   "month": 9,
+   "day": 9,
+   "year": 1944,
+   "anchor_reason": "The day he died of exhaustion in the Hersbruck labor camp, a branch of Flossenbürg, eighteen months after his refusal.",
+   "date_confidence": "verified",
+   "story": "Dirk Boonstra was a village policeman in Grijpskerk, a small town in the north of the Netherlands. He was fifty years old, married, with five children. On 9 March 1943, during the German occupation, he and his colleagues were ordered to round up the last seven Jews in the area. They were old and sick people, and the order was to put them on a transport to the Westerbork camp. Boonstra said no. The Germans asked again, with promises, and then with threats. He said no three times, and eleven other policemen in his group refused with him. He told them he could not do it, whatever the cost to his family. The next day the Germans arrested the whole group and sent them to the Vught camp. Boonstra was moved to Dachau in May 1943 and then to Hersbruck, a labor camp in Bavaria. He died there of exhaustion on 9 September 1944. Ten of his colleagues survived the war. He did not. In 1988 Yad Vashem, the Holocaust memorial in Jerusalem, named him Righteous Among the Nations. He gave up his freedom, his family, and his life rather than arrest seven old neighbors.",
+   "contested": null,
+   "sources": [
+    "https://oorlogsgravenstichting.nl/personen/17613/dirk-boonstra",
+    "https://en.wikipedia.org/wiki/Dirk_Boonstra_(police_officer)",
+    "https://www.filmbankgroningen.nl/archief/av22002/"
+   ]
+  },
+  {
+   "id": "ho-feng-shan",
+   "name": "Ho Feng-Shan",
+   "blurb": "Chinese consul in Vienna who wrote thousands of visas for Jews against orders",
+   "month": 9,
+   "day": 10,
+   "year": 1901,
+   "anchor_reason": "His birthday.",
+   "date_confidence": "verified",
+   "story": "Ho Feng-Shan was the Chinese consul general in Vienna when Germany took over Austria in March 1938. Austria's Jews were under attack, and the Nazis would let them leave only if they could show a visa or a ticket to another country. Most countries had shut their doors. Ho started writing visas to Shanghai. Shanghai did not require a visa, but the paper was enough to get a Jew out of Austria, and sometimes out of Dachau. By October 1938 he had passed nineteen hundred visas, and he kept going until he was recalled in May 1940. His boss, the Chinese ambassador in Berlin, telephoned and ordered him to stop, because China wanted good relations with Germany. Ho ignored him. The ambassador sent an investigator, who found nothing wrong. When the Nazis seized the consulate building, Ho rented a smaller office and paid for it out of his own pocket. After the war a reprimand sat in his personnel file. He died in San Francisco in 1997, at ninety-six. Yad Vashem named him Righteous Among the Nations in 2000. He risked his career and defied his own government for people who could offer him nothing.",
+   "contested": "Nobody knows how many visas he issued; estimates run from a few thousand to tens of thousands, and how many holders actually escaped is unknown.",
+   "sources": [
+    "https://www.holocaustrescue.org/feng-shan-ho-biography",
+    "https://en.wikipedia.org/wiki/Ho_Feng-Shan",
+    "https://hmd.org.uk/resource/feng-shan-ho/",
+    "https://www.yadvashem.org/righteous/stories/ho.html"
+   ]
+  },
+  {
    "id": "rick-rescorla",
    "name": "Rick Rescorla",
    "blurb": "Drilled Morgan Stanley for years, then walked 2,700 people out of the South Tower",
@@ -781,6 +834,24 @@
     "https://en.wikipedia.org/wiki/Rick_Rescorla",
     "https://www.cmohs.org/citizen-honors/rick-rescorla",
     "https://ourhistory.morganstanley.com/stories/surviving-the-crisis/story-2001-september-11"
+   ]
+  },
+  {
+   "id": "tetsu-nakamura",
+   "name": "Tetsu Nakamura",
+   "blurb": "Japanese doctor who dug a canal and turned an Afghan desert green",
+   "month": 9,
+   "day": 15,
+   "year": 1946,
+   "anchor_reason": "His birthday. He was shot dead in Jalalabad on 4 December 2019.",
+   "date_confidence": "verified",
+   "story": "Tetsu Nakamura was a doctor from Fukuoka, Japan. In 1984 he went to Peshawar, in Pakistan, to treat leprosy, and his work soon spread across the border into Afghanistan. In 2000 a severe drought hit eastern Afghanistan. Nakamura watched children die of diarrhea from dirty water, and he decided that medicine was not enough. His team dug sixteen hundred wells. In 2003 he began something bigger, an irrigation canal from the Kunar River. He had no training as an engineer. He copied old Japanese river works, with stone and wicker walls that local farmers could repair themselves. The canal reached about twenty-five kilometers, and with the rest of the system it brought water to around sixteen thousand hectares of land and more than six hundred thousand people. The Gamberi desert outside Jalalabad turned into wheat fields and forest. In October 2019 Afghanistan made him an honorary citizen. On 4 December 2019 gunmen stopped his car on the way to a work site and killed him, his driver, and his bodyguards. He was seventy-three. He gave thirty-five years and, in the end, his life to a country that was not his own.",
+   "contested": "Sources give different totals for the canal, from 25.5 to 27 kilometers, and for the land and people it serves.",
+   "sources": [
+    "https://fukuoka-prize.org/laureates/detail/019f4edf-728c-414a-be97-939ed466208f",
+    "https://www.kyushu-u.ac.jp/en/topics/view/473/",
+    "https://en.wikipedia.org/wiki/Tetsu_Nakamura",
+    "https://www.peshawar-pms.com/pekai/ryakureki.html"
    ]
   },
   {
