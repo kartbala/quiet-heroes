@@ -1,0 +1,1024 @@
+{
+ "title": "Quiet Heroes",
+ "generated": "2026-09-06",
+ "heroes": [
+  {
+   "id": "chiune-sugihara",
+   "name": "Chiune Sugihara",
+   "blurb": "Wrote thousands of transit visas for Jewish refugees against his government's orders",
+   "month": 1,
+   "day": 1,
+   "year": 1900,
+   "anchor_reason": "His birthday. The visas were written in Kaunas, Lithuania, from July to August 1940.",
+   "date_confidence": "verified",
+   "story": "Chiune Sugihara is born on 1 January 1900 in Japan. Forty years later he is the Japanese vice consul in Kaunas, Lithuania, and the Soviet Army has just occupied the country. Thousands of Jewish refugees from Poland crowd outside his gate. A Japanese transit visa would let them cross the Soviet Union to Japan and then move on to somewhere safe. Sugihara cables Tokyo for permission. Three times Tokyo tells him the refugees must first hold visas for a final destination, which almost none of them can get. From 18 July to 28 August 1940 he writes visas anyway, by hand, from morning until night. Consulate records show more than two thousand, and many cover whole families. He is still writing when he is ordered out of Lithuania, and he hands the last visas through the window of his train as it leaves the station. In 1947 the Foreign Ministry asks him to resign. He spends the rest of his working life in trade jobs and rarely speaks of Kaunas. Israel names him Righteous Among the Nations in 1984, two years before he dies. He gave up his diplomatic career to sign papers for strangers.",
+   "contested": "The number of visas is disputed. Sugihara's own list has 2,139 names, but estimates of people saved run from about 2,000 to 6,000.",
+   "sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/chiune-sempo-sugihara",
+    "https://en.wikipedia.org/wiki/Chiune_Sugihara",
+    "https://www.sugiharahouse.com/en/chiune-sugihara"
+   ]
+  },
+  {
+   "id": "wesley-autrey",
+   "name": "Wesley Autrey",
+   "blurb": "Held a stranger down between subway rails as a train passed over them",
+   "month": 1,
+   "day": 2,
+   "year": 2007,
+   "anchor_reason": "The day he jumped onto the tracks at 137th Street station to save Cameron Hollopeter.",
+   "date_confidence": "verified",
+   "story": "Wesley Autrey is a fifty year old construction worker and Navy veteran. On 2 January 2007, just after noon, he is waiting for a train at the 137th Street station in Harlem with his two young daughters. A young man on the platform, Cameron Hollopeter, a twenty year old film student, has a seizure and stumbles off the edge onto the tracks. A train is already coming. Autrey leaves his daughters with a stranger and jumps down. He tries to lift Hollopeter back up and cannot. So he pushes him flat into the shallow trough between the rails and lies on top of him. The train cannot stop in time. The first car passes over them. The second car stops above them. Workers cut the power and pull both men out several minutes later. Hollopeter has bruises. Autrey is unhurt. He says afterward that he only saw someone who needed help and did what felt right. New York gives him its highest award for citizenship, and the President seats him in the gallery at the State of the Union. He risked leaving two small girls without a father for a stranger he had never spoken to.",
+   "contested": null,
+   "sources": [
+    "https://www.carnegiehero.org/hero-search/wesley-james-autrey/",
+    "https://en.wikipedia.org/wiki/Wesley_Autrey",
+    "https://www.nbcnews.com/id/wbna16444249"
+   ]
+  },
+  {
+   "id": "louis-braille",
+   "name": "Louis Braille",
+   "blurb": "Invented the six dot alphabet that blind people read by touch",
+   "month": 1,
+   "day": 4,
+   "year": 1809,
+   "anchor_reason": "His birthday.",
+   "date_confidence": "verified",
+   "story": "Louis Braille is born on 4 January 1809 in Coupvray, a village east of Paris, where his father makes saddles and harnesses. At three he is playing in the workshop and cuts his eye with a sharp tool. Infection spreads to the other eye, and by five he is fully blind. At ten he enters the Royal Institute for Blind Youth in Paris. The books there use raised letters, huge and slow to read. A soldier named Charles Barbier shows the school a code of raised dots meant for reading messages in the dark. Braille, still a teenager, cuts it down to a cell of six dots that a fingertip can take in at once, and works out letters, punctuation and music. He has the system ready by the time he is sixteen. The sighted men who run the school will not adopt it. He teaches there and uses it with his students anyway. He dies of tuberculosis in 1852, two days after his forty third birthday. The school makes his alphabet official two years after his death. He gave his short life to a code that his own school would not accept while he was alive.",
+   "contested": null,
+   "sources": [
+    "https://museelouisbraille.com/en/biographie",
+    "https://www.nbp.org/ic/nbp/about/aboutbraille/whoislouis.html",
+    "https://en.wikipedia.org/wiki/Louis_Braille"
+   ]
+  },
+  {
+   "id": "raoul-wallenberg",
+   "name": "Raoul Wallenberg",
+   "blurb": "Issued Swedish protective passes that kept tens of thousands of Budapest Jews alive",
+   "month": 1,
+   "day": 17,
+   "year": 1945,
+   "anchor_reason": "The day Soviet forces took him into custody in Budapest, after which he was never seen free again.",
+   "date_confidence": "verified",
+   "story": "Raoul Wallenberg is a thirty two year old Swedish businessman with no diplomatic training when he arrives in Budapest on 9 July 1944 as a secretary at the Swedish legation. Hundreds of thousands of Hungarian Jews have already been deported to Auschwitz. Wallenberg prints protective passes in Swedish colors that claim the bearer is under Swedish protection. The papers have little real legal force, but he hands them out by the thousand and bluffs German and Hungarian officers into honoring them. He rents buildings, hangs Swedish flags on them, and fills them with families. He goes to the trains and the forced marches and argues people off them. When the Red Army closes on the city, more than one hundred thousand Jews are still alive in Budapest, many because of him and his colleagues. On 17 January 1945 he leaves with his driver to meet the Soviet command, and is taken into custody instead. He is never seen free again. Moscow later says he died in a prison cell in 1947. Sweden declares him legally dead in 2016. He gave up his safety, and in the end his life, for people who were not his own.",
+   "contested": "His fate is unresolved. The Soviet claim that he died in 1947 is contradicted by later reported sightings in the prison system.",
+   "sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/raoul-wallenberg-and-the-rescue-of-jews-in-budapest",
+    "https://www.raoulwallenberg.net/wallenberg/fate/essay/soviet-arrest-raoul-wallenberg/",
+    "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
+   ]
+  },
+  {
+   "id": "ed-roberts",
+   "name": "Ed Roberts",
+   "blurb": "Fought his way into Berkeley in a wheelchair and started the independent living movement",
+   "month": 1,
+   "day": 23,
+   "year": 1939,
+   "anchor_reason": "His birthday.",
+   "date_confidence": "verified",
+   "story": "Ed Roberts is born on 23 January 1939 in San Mateo, California. At fourteen he catches polio. He comes home eighteen months later paralyzed from the neck down, able to move only a little of one hand and one foot, and sleeping each night in an iron lung. His high school tries to refuse him a diploma over physical education. His mother fights the school board and wins. The state rehabilitation agency calls him unemployable. He goes to the University of California at Berkeley anyway, in 1962, as its first student in a wheelchair, and lives in an empty wing of the campus hospital because no dorm can take his iron lung. Other disabled students follow him there, and they call themselves the Rolling Quads. They move out of the hospital, hire their own attendants, and build the Center for Independent Living, run by disabled people, which Roberts later leads. In the mid 1970s the governor of California makes him director of the same rehabilitation department that once wrote him off. He died in 1995. He gave up the safe life of a patient to fight for the right to live on his own terms.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ed_Roberts_(activist)",
+    "https://mn.gov/mnddc/ed-roberts/index.html",
+    "https://www.britannica.com/biography/Ed-Roberts"
+   ]
+  },
+  {
+   "id": "irena-sendler",
+   "name": "Irena Sendler",
+   "blurb": "Smuggled Jewish children out of the Warsaw Ghetto and buried their names in jars",
+   "month": 2,
+   "day": 15,
+   "year": 1910,
+   "anchor_reason": "Her birthday.",
+   "date_confidence": "verified",
+   "story": "Irena Sendler is born on 15 February 1910 near Warsaw, the daughter of a doctor who dies of typhus when she is a child. When the Germans wall off the Warsaw Ghetto in 1940, she is a social worker with the city welfare department. That job gets her a pass into the ghetto, on the pretext of checking for typhus. She uses it to bring out children. Children leave in ambulances, in sacks, and through the sewers. Each gets a new Polish name and a place with a convent or a family. Sendler writes the real names and the new ones on slips of paper and buries them in jars, so that after the war the children can be found again. In October 1943 the Gestapo arrests her, tortures her, and sentences her to death. She names no one. Her underground network bribes a guard, and she walks free on the way to her execution. Israel honors her as Righteous Among the Nations in 1965. She died in 2008 at ninety eight. She risked her life every day for two years, and came within a walk of the firing squad, to keep those children and their names safe.",
+   "contested": "The often quoted figure of 2,500 children saved covers her whole network and is disputed; her own share is put at a few hundred.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Irena_Sendler",
+    "https://www.biography.com/activist/irena-sendler",
+    "https://sprawiedliwi.org.pl/en/o-sprawiedliwych/irena-sendlerowa/biografia-ireny-sendlerowej"
+   ]
+  },
+  {
+   "id": "paul-farmer",
+   "name": "Paul Farmer",
+   "blurb": "Built hospitals for the poor in Haiti and Rwanda",
+   "month": 2,
+   "day": 21,
+   "year": 2022,
+   "anchor_reason": "The day he died in his sleep in Butaro, Rwanda, where he was teaching.",
+   "date_confidence": "verified",
+   "story": "Paul Farmer is a doctor and anthropologist who spends his life on one argument: that poor people deserve the same medicine as rich people, and that cost is no excuse. In 1987 he helps found Partners In Health with a clinic in Cange, a village in the Central Plateau of Haiti. The clinic treats tuberculosis and later HIV with the same drugs used in Boston, and the patients get better. Drug resistant tuberculosis is widely written off as too expensive to treat in poor countries. Farmer and his colleagues treat it in Haiti, Peru and Russia and show that it can be done. In Haiti his team cuts the rate of HIV passing from mothers to babies to four percent. He becomes a University Professor at Harvard, the highest rank the university gives, and helps found a medical school in rural Rwanda, the University of Global Health Equity. He dies in his sleep of a heart attack on 21 February 2022 in Butaro, Rwanda, where he is teaching. He is sixty two. He gave up the comfortable career an honored Harvard doctor could have had, and spent his years in clinics where the roads ran out.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Paul_Farmer",
+    "https://www.bostonglobe.com/2022/02/21/metro/dr-paul-farmer-cofounder-partners-health-has-died/",
+    "https://www.pih.org/article/remembering-dr-paul-farmer"
+   ]
+  },
+  {
+   "id": "sophie-scholl",
+   "name": "Sophie Scholl",
+   "blurb": "Scattered anti-Nazi leaflets at Munich university and was beheaded four days later",
+   "month": 2,
+   "day": 22,
+   "year": 1943,
+   "anchor_reason": "The day she was tried and executed by guillotine in Munich.",
+   "date_confidence": "verified",
+   "story": "Sophie Scholl is a twenty one year old student at the University of Munich. Her brother Hans and a few friends write and print leaflets under the name the White Rose, calling on Germans to resist Hitler and the war. Sophie joins them. They mail the leaflets, carry them by train to other cities, and leave them where people will find them. On the morning of 18 February 1943, Sophie and Hans carry a suitcase of leaflets into the main university building and set stacks of them along the corridors while lectures are on. With a few left over, Sophie pushes a pile off the top balcony into the open hall below. A maintenance man named Jakob Schmid sees the paper fall and has the doors locked. The Gestapo takes them both. Four days later, on 22 February 1943, the People's Court under Roland Freisler tries the two of them and their friend Christoph Probst in a single session and sentences all three to death. They are beheaded at Stadelheim prison that same afternoon. Sophie goes first, at five o'clock. She gave her life at twenty one for a few thousand sheets of paper.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sophie_Scholl",
+    "https://www.deutschlandmuseum.de/en/history/calendar/1943-02-22-execution-of-the-scholl-siblings/",
+    "https://www.nationalww2museum.org/war/articles/sophie-scholl-and-white-rose"
+   ]
+  },
+  {
+   "id": "claudette-colvin",
+   "name": "Claudette Colvin",
+   "blurb": "Refused to give up her Montgomery bus seat at fifteen, nine months before Rosa Parks",
+   "month": 3,
+   "day": 2,
+   "year": 1955,
+   "anchor_reason": "The day she refused to give up her seat on a Montgomery bus and was arrested.",
+   "date_confidence": "verified",
+   "story": "On March 2, 1955, Claudette Colvin was fifteen years old and riding a city bus home from school in Montgomery, Alabama. The driver told her and three other Black students to give up their row for a white passenger. The other three moved. Claudette stayed in her seat. She had been studying Black history in class and felt she had a right to sit there. Two police officers dragged her off the bus, handcuffed her, and took her to an adult jail. She was charged with disturbing the peace, breaking segregation law, and assaulting an officer. This was nine months before Rosa Parks. Local leaders decided not to build a campaign around Claudette. She was a teenager, and soon after she became pregnant, and they feared the press would use that against her. In 1956 she was one of four women who sued the city in Browder versus Gayle. The Supreme Court upheld the ruling that bus segregation was unconstitutional. Her record was not cleared until 2021. She died in January 2026. She risked jail and her safety at fifteen, and then spent most of her life with no credit for it.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Claudette_Colvin",
+    "https://www.britannica.com/biography/Claudette-Colvin",
+    "https://eji.org/news/eji-remembers-civil-rights-pioneer-claudette-colvin/",
+    "https://alabamareflector.com/2026/01/13/claudette-colvin-who-challenged-alabamas-segregation-laws-dies-at-86/"
+   ]
+  },
+  {
+   "id": "harriet-tubman",
+   "name": "Harriet Tubman",
+   "blurb": "Escaped slavery, then went back thirteen times to lead others out",
+   "month": 3,
+   "day": 10,
+   "year": 1913,
+   "anchor_reason": "The day she died in Auburn, New York, in the home for the elderly she had founded.",
+   "date_confidence": "verified",
+   "story": "Harriet Tubman was born into slavery in Maryland around 1822. As a girl, an overseer threw a heavy weight that struck her in the head, and she lived the rest of her life with seizures and sudden sleep. In 1849 she escaped north to Pennsylvania. She was free, and she could have stayed free. Instead she went back. Over the next eleven years she made about thirteen trips into Maryland and led roughly seventy enslaved people out, including her own family. She traveled in winter, at night, along a chain of safe houses. She never lost a passenger. During the Civil War she worked as a scout and spy for the Union Army. In June 1863 she guided a raid on the Combahee River in South Carolina that freed more than seven hundred people. After the war she settled in Auburn, New York, and opened a home for elderly Black people who had nowhere else to go. She died there on March 10, 1913, at about ninety years old. Every trip south, she risked capture, a return to slavery, and death, for people who had no way to repay her.",
+   "contested": null,
+   "sources": [
+    "https://www.nps.gov/people/harriet-tubman.htm",
+    "https://en.wikipedia.org/wiki/Harriet_Tubman",
+    "https://www.ebsco.com/research-starters/history/death-harriet-tubman"
+   ]
+  },
+  {
+   "id": "hugh-thompson",
+   "name": "Hugh Thompson Jr.",
+   "blurb": "Landed his helicopter between American troops and Vietnamese villagers at My Lai",
+   "month": 3,
+   "day": 16,
+   "year": 1968,
+   "anchor_reason": "The morning of the My Lai massacre, when he put his helicopter between the soldiers and the villagers.",
+   "date_confidence": "verified",
+   "story": "Hugh Thompson is a twenty four year old warrant officer flying a small scout helicopter over the Vietnamese village of My Lai on the morning of 16 March 1968. From the air he and his crew, Glenn Andreotta and Larry Colburn, see United States soldiers shooting unarmed women, children and old men. Thompson lands his helicopter between a group of villagers hiding in a bunker and the soldiers advancing on them. He tells his crew to cover him, and to fire on the Americans if they open fire on the civilians. Then he calls in bigger helicopters and flies about ten villagers out to safety. He goes back to the ditch, and Andreotta lifts out a small boy, alive. He reports what he saw, and later testifies to the Army and to Congress. A congressman says he should be court martialed. He gets death threats and dead animals on his porch. Thirty years later, in 1998, the Army gives him and his crew the Soldier's Medal. He died in 2006. He risked being shot by his own side, and then spent decades being called a traitor for telling the truth.",
+   "contested": null,
+   "sources": [
+    "https://www.military.com/history/hugh-c-thompson-jr.html",
+    "https://en.wikipedia.org/wiki/Hugh_Thompson_Jr.",
+    "https://www.zinnedproject.org/news/tdih/hugh-thompson-lai-massacre/"
+   ]
+  },
+  {
+   "id": "norman-borlaug",
+   "name": "Norman Borlaug",
+   "blurb": "Bred dwarf wheat that fed India, Pakistan and Mexico through the 1960s famines",
+   "month": 3,
+   "day": 25,
+   "year": 1914,
+   "anchor_reason": "His birthday, on a farm near Cresco, Iowa.",
+   "date_confidence": "verified",
+   "story": "Norman Borlaug was born on March 25, 1914, on a farm in northeast Iowa. He studied plant disease at the University of Minnesota. In 1944 the chemical company DuPont offered to double his salary. He turned it down and moved to Mexico to work on wheat for a small research program funded by the Rockefeller Foundation. Mexican wheat was dying of a fungus called rust, and the country imported half its grain. Borlaug spent years crossing thousands of wheat lines by hand. He grew two crops a year in two places seven hundred miles apart, which other scientists said would not work. It worked. He bred short, stiff wheat that stood up under heavy grain and resisted rust. By 1963 Mexico was exporting wheat. In the mid 1960s India and Pakistan faced famine, and Borlaug shipped his seed there during a war between the two countries. Within five years their wheat harvests had nearly doubled. In 1970 he won the Nobel Peace Prize. He kept working in fields into his nineties and died in 2009. He gave up a comfortable career at home for decades of hard field work in poor countries, and a family he rarely saw.",
+   "contested": "Critics say the Green Revolution favored large farms and heavy fertilizer use, and the claim that he saved a billion lives is an estimate, not a count.",
+   "sources": [
+    "https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/",
+    "https://en.wikipedia.org/wiki/Norman_Borlaug",
+    "https://www.britannica.com/biography/Norman-Borlaug",
+    "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbm.2013.0012"
+   ]
+  },
+  {
+   "id": "joseph-bazalgette",
+   "name": "Joseph Bazalgette",
+   "blurb": "Built the London sewers that ended cholera in the city",
+   "month": 3,
+   "day": 28,
+   "year": 1819,
+   "anchor_reason": "His birthday, in Enfield, London.",
+   "date_confidence": "verified",
+   "story": "Joseph Bazalgette was born on March 28, 1819, in Enfield, north of London. He became a civil engineer. In the 1850s London poured its sewage straight into the Thames, and cholera killed tens of thousands. In the hot summer of 1858 the river stank so badly that Parliament hung sheets soaked in lime over the windows. They called it the Great Stink, and it finally got Bazalgette's plan approved. He designed large brick sewers running east along both banks, carrying waste downstream and away from the city. The work took sixteen years. His crews built eighty-two miles of main sewers and eleven hundred miles of street sewers, with pumping stations and new embankments along the river. He made the pipes far bigger than the city needed at the time, and they still serve London today. In 1866 cholera came back, but it stayed in the one part of the East End not yet joined to his system. After that, London never had another outbreak. He was knighted in 1875 and died in 1891. He spent his working life underground, fighting for money from politicians who wanted cheaper pipes, on a project most people preferred not to think about.",
+   "contested": null,
+   "sources": [
+    "https://www.ice.org.uk/what-is-civil-engineering/meet-the-engineers/sir-joseph-bazalgette",
+    "https://en.wikipedia.org/wiki/Joseph_Bazalgette",
+    "https://en.wikipedia.org/wiki/Great_Stink"
+   ]
+  },
+  {
+   "id": "judith-heumann",
+   "name": "Judith Heumann",
+   "blurb": "Led a twenty-five day sit-in that forced the first federal disability rights rules",
+   "month": 4,
+   "day": 5,
+   "year": 1977,
+   "anchor_reason": "The day she led protesters into the federal building in San Francisco to begin the Section 504 sit-in.",
+   "date_confidence": "verified",
+   "story": "Judith Heumann had polio as a baby and used a wheelchair all her life. New York City refused to let her teach, calling her a fire hazard. She sued and won. In 1973 Congress passed a law with a short clause called Section 504. It said no program that took federal money could discriminate against disabled people. For four years the government refused to write the rules that would put it into effect. On April 5, 1977, Heumann led about one hundred fifty people into the federal building in San Francisco and they refused to leave. Blind people, deaf people, and wheelchair users slept on the floor together. The building cut the phone lines. The Black Panther Party cooked and delivered hot meals every day. Heumann flew to Washington and told a congressional hearing that the government could not steal their civil rights. On April 28 the secretary of health, education and welfare signed the rules. The occupation lasted twenty-five days. She went on to work for two presidents and the World Bank, and died in 2023. She risked arrest and her own health, sleeping on a floor for nearly a month with no way to know it would work.",
+   "contested": null,
+   "sources": [
+    "https://americanhistory.si.edu/explore/stories/sitting-disability-rights-section-504-protests-1970s",
+    "https://en.wikipedia.org/wiki/Section_504_sit-ins",
+    "https://jwa.org/thisweek/judith-heumann-leads-504-sit-san-francisco"
+   ]
+  },
+  {
+   "id": "carl-wilkens",
+   "name": "Carl Wilkens",
+   "blurb": "The one American who refused to leave Rwanda during the 1994 genocide",
+   "month": 4,
+   "day": 10,
+   "year": 1994,
+   "anchor_reason": "The day the evacuation order came and his family left Kigali in the American convoy while he stayed; one source puts his decision a day earlier.",
+   "date_confidence": "approximate",
+   "story": "Carl Wilkens ran a small relief agency for the Adventist church in Rwanda. On the night of April 6, 1994, the president's plane was shot down, and by morning soldiers and militia were killing Tutsi families across the capital, Kigali. Within days the United Nations ordered all foreigners out. Wilkens put his wife and three children in the convoy to Burundi on April 10 and stayed in his house. He said there were people who depended on him. Two were his Tutsi staff, who would have been killed the hour he left. After three weeks trapped inside, he started driving through the roadblocks with water and food for orphanages. At one, called Gisimba, about four hundred children and widows were sheltering when fifty armed militiamen surrounded the building. Wilkens went to the prime minister, a man later convicted of leading the genocide, and got a promise that the orphans would be protected. Soldiers moved them by bus to a church, and they lived. He was the only American who stayed. Today he speaks in schools. He risked his own life, and the chance of his children losing their father, for people he could have left behind with everyone else.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Carl_Wilkens",
+    "https://en.gariwo.net/righteous/rwandan-genocide/carl-wilkens-24826.html",
+    "https://www.army.mil/article/152758/aid_worker_finds_some_humanity_during_rwanda_genocide",
+    "https://enoughproject.org/blog/not-leaving-qa-carl-wilkens-american-rwanda-during-genocide"
+   ]
+  },
+  {
+   "id": "jonas-salk",
+   "name": "Jonas Salk",
+   "blurb": "Made the polio vaccine and never patented it",
+   "month": 4,
+   "day": 12,
+   "year": 1955,
+   "anchor_reason": "The day the polio vaccine trial results were announced safe and effective in Ann Arbor, Michigan.",
+   "date_confidence": "verified",
+   "story": "In the early 1950s polio was the disease American parents feared most. In 1952 alone the United States recorded almost fifty-eight thousand cases. Children woke up unable to move their legs. Some spent years inside iron lungs to breathe. Pools and theaters closed every summer. Jonas Salk, a doctor at the University of Pittsburgh, made a vaccine from killed virus, and he tested it first on himself, his wife, and his three sons. In 1954 more than one million children took part in the largest medical trial ever run. On April 12, 1955, in a packed hall in Ann Arbor, Michigan, the scientist who checked the results, Thomas Francis, announced that the vaccine was safe and effective. Church bells rang across the country. The government licensed the vaccine that same afternoon. Within a year thirty million doses had gone into American children, and polio cases fell by half. By 1979 the United States had no polio at all. When a television reporter asked Salk who owned the patent, he said the people did, and asked whether you could patent the sun. He gave up a fortune in patent rights so that the vaccine could reach every child.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Announcement_of_polio_vaccine_success",
+    "https://www.salk.edu/news-release/the-day-polio-met-its-match-celebrating-70-years-of-the-salk-vaccine/",
+    "https://sph.umich.edu/polio",
+    "https://www.britannica.com/biography/Jonas-Salk"
+   ]
+  },
+  {
+   "id": "rosalind-franklin",
+   "name": "Rosalind Franklin",
+   "blurb": "Took the X-ray photograph that revealed DNA's shape, and got no credit",
+   "month": 4,
+   "day": 16,
+   "year": 1958,
+   "anchor_reason": "The day she died in London at age thirty-seven.",
+   "date_confidence": "verified",
+   "story": "Rosalind Franklin was a chemist who photographed molecules with X-rays. In 1951 she joined King's College London to study DNA. She and her student Raymond Gosling took the sharpest pictures of it anyone had made. In May 1952 they captured one now called Photo 51. It shows a clear X pattern, which to a trained eye means a helix. In January 1953 her colleague Maurice Wilkins showed the photograph to James Watson without her knowledge. Watson and Francis Crick used it, along with her measurements from an internal report, to build their model of the double helix. Their paper came out in April 1953 with only a brief thanks to her. Franklin moved to another college and did pioneering work on the structure of viruses, including the polio virus. In 1956 she learned she had ovarian cancer. She kept working through three operations. She died on April 16, 1958, at thirty-seven. Four years later Watson, Crick and Wilkins shared the Nobel Prize, which is never given to the dead. She gave her health to careful work in a lab that never treated her as an equal, and did not live to see the world learn what she had done.",
+   "contested": "How much Watson and Crick owed to her data, and whether she would have shared the Nobel Prize had she lived, is still argued.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+    "https://www.iucr.org/news/newsletter/volume-28/number-2/rosalind-franklin-19201958",
+    "https://embryo.asu.edu/pages/photograph-51-rosalind-franklin-1952"
+   ]
+  },
+  {
+   "id": "fred-rogers",
+   "name": "Fred Rogers",
+   "blurb": "Talked a skeptical senator into funding public television in six minutes",
+   "month": 5,
+   "day": 1,
+   "year": 1969,
+   "anchor_reason": "The day he testified before the Senate subcommittee on communications in defense of public broadcasting.",
+   "date_confidence": "verified",
+   "story": "In 1969 the new Nixon administration proposed cutting federal money for public broadcasting in half, from twenty million dollars to ten million. The Senate held hearings. The chairman, John Pastore of Rhode Island, was blunt and impatient, and had already sat through days of testimony. On May 1, 1969, Fred Rogers came to the table. His children's program had been on national television for barely a year. He did not read his prepared statement. He spoke quietly for about six minutes about what his show tried to do. He said he wanted to help each child feel that he or she was worth something, and to show that feelings could be talked about instead of acted out. Then he recited the words of a song from the show about what to do with the mad that you feel. Pastore listened. When Rogers finished, the senator said he had goose bumps, and that Rogers had just earned the twenty million dollars. The next budget for public broadcasting went up, not down. Fred Rogers put his own reputation on the line in front of a hostile committee, with a soft voice and no political cover, for children who could not vote.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fred_Rogers%27s_1969_United_States_Senate_testimony",
+    "https://www.cmhnetwork.org/news/may-1-1969-fred-rogers-testifies-before-the-senate-subcommittee-on-communications/",
+    "https://www.thirteen.org/blog-post/remembering-fred-rogers-defense-cpb/"
+   ]
+  },
+  {
+   "id": "septima-clark",
+   "name": "Septima Clark",
+   "blurb": "Taught thousands of Black Southerners to read so they could register to vote",
+   "month": 5,
+   "day": 3,
+   "year": 1898,
+   "anchor_reason": "Her birthday, in Charleston, South Carolina.",
+   "date_confidence": "verified",
+   "story": "Septima Clark was born on May 3, 1898, in Charleston, South Carolina. Her father had been enslaved. She became a teacher at eighteen on Johns Island, in a school with no glass in the windows. She taught for forty years. In 1956 South Carolina made it illegal for public employees to belong to the NAACP. Clark refused to quit the organization, so the school board fired her and took away her pension. She was fifty-eight. The Highlander Folk School in Tennessee hired her, and there she built something new. She called them citizenship schools. Southern states used reading tests to keep Black citizens off the voter rolls, so she taught adults to read using the things around them, like newspapers and mail order catalogs, and then taught them how to register. The first school opened in a back room on Johns Island in 1957. The idea spread through the South. Martin Luther King's organization took over the program in 1961 and trained thousands of teachers, who taught tens of thousands of new voters. Her pension was finally restored in 1976. She died in 1987. She gave up her job and her retirement rather than give up her membership card.",
+   "contested": null,
+   "sources": [
+    "https://www.scencyclopedia.org/sce/entries/clark-septima-poinsette/",
+    "https://www.zinnedproject.org/news/tdih/septima-clark-born/",
+    "https://en.wikipedia.org/wiki/Septima_Poinsette_Clark",
+    "https://snccdigital.org/people/septima-clark/"
+   ]
+  },
+  {
+   "id": "chernobyl-divers",
+   "name": "Ananenko, Bezpalov and Baranov",
+   "blurb": "Waded into the flooded basement under Chernobyl to open the drain valves",
+   "month": 5,
+   "day": 6,
+   "year": 1986,
+   "anchor_reason": "The mission to drain the water beneath reactor four; accounts place it on May 4 or May 6, 1986, and the pool was drained by about May 6.",
+   "date_confidence": "approximate",
+   "story": "Ten days after reactor four at Chernobyl exploded, the plant faced a second disaster. The melted core was burning its way down through the building. Below it sat two large pools of water, used to catch steam in an emergency, and now full of water from the firefighting. If the molten core reached that water, the steam blast could have thrown far more radiation across Europe than the first explosion. The pools had to be drained, and the valves were in a flooded basement under the reactor. Three plant workers went in. Aleksei Ananenko was a mechanical engineer who knew where the valves were. Valeri Bezpalov was a senior engineer. Boris Baranov was a shift supervisor who carried the light. In wetsuits, in knee deep radioactive water, in the dark, they followed a pipe by feel until they found the valves and turned them. The water drained out. Ananenko said afterward that he was simply doing his job. Baranov died of heart disease in 2005. The other two were still alive decades later. They walked into a place where the radiation could have killed them and did not know whether they would walk out.",
+   "contested": "The popular account, including the television series, says all three died within weeks; in fact all three survived, and Ananenko and Bezpalov were still alive in the 2020s.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Oleksiy_Ananenko",
+    "https://www.history.co.uk/article/the-real-story-of-the-chernobyl-divers",
+    "https://www.france24.com/en/20190614-im-no-hero-says-chernobyl-diver-portrayed-hit-tv-series"
+   ]
+  },
+  {
+   "id": "robert-smalls",
+   "name": "Robert Smalls",
+   "blurb": "Stole a Confederate warship from Charleston harbor and sailed his family to freedom",
+   "month": 5,
+   "day": 13,
+   "year": 1862,
+   "anchor_reason": "The day he sailed the Planter out of Charleston harbor to the Union fleet.",
+   "date_confidence": "verified",
+   "story": "Robert Smalls was born enslaved in Beaufort, South Carolina. By 1862 he was twenty-three and working as the pilot of the Planter, a Confederate steamer that carried guns and troops around Charleston harbor. He knew every channel and signal. On the night of May 12, the white officers went ashore to sleep. Around three in the morning on May 13, Smalls and seven enslaved crewmen fired up the boilers and eased the ship away from the dock. They stopped for their wives and children, sixteen people in all. Smalls put on the captain's straw hat and stood at the wheel in the dark. He gave the correct whistle signals at each Confederate fort, including Fort Sumter, and the guards waved him through. Once past the last battery, his crew lowered the Confederate flag and raised a white bed sheet. A Union ship nearly fired before a sailor spotted it in the dawn light. Smalls handed over the ship, its cannons, and the signal code. He piloted for the Union Navy through the war, then served five terms in Congress. If any sentry had looked closely that night, he and his wife and children would have been shot or hanged.",
+   "contested": null,
+   "sources": [
+    "https://history.house.gov/People/Detail/21764",
+    "https://www.smithsonianmag.com/history/thrilling-tale-how-robert-smalls-heroically-sailed-stolen-confederate-ship-freedom-180963689/",
+    "https://www.postandcourier.com/350/articles/may-13-1862---the-escape-of-the-planter/article_b2d3b41a-8b10-11ea-96d3-530ddb27c3c5.html"
+   ]
+  },
+  {
+   "id": "nicholas-winton",
+   "name": "Nicholas Winton",
+   "blurb": "Got 669 children out of Prague in 1939 and told no one for fifty years",
+   "month": 5,
+   "day": 19,
+   "year": 1909,
+   "anchor_reason": "His birthday, in Hampstead, London.",
+   "date_confidence": "verified",
+   "story": "Nicholas Winton was born on May 19, 1909, in London, to parents of German Jewish descent. He worked as a stockbroker. In December 1938 he cancelled a ski holiday to help a friend in Prague with refugee work. Germany had just taken part of Czechoslovakia. Britain would admit children, but only if someone found each one a foster family and posted a fifty pound bond. Winton set up a desk in his hotel, took names, and photographed children. Back in London he spent his evenings writing to families, raising money, and arguing with the Home Office. Between March and August 1939 eight trains carried six hundred sixty-nine children from Prague to London. A ninth train with about two hundred fifty children was due to leave on September 1, the day Germany invaded Poland. It never left, and almost none of those children survived. Winton said nothing. In 1988 his wife found a scrapbook in the attic with the lists and photographs. A television program sat him, unknowing, in an audience of the people he had saved. He died in 2015 at one hundred six. He gave his evenings, his money, and every bit of credit, and asked for nothing back.",
+   "contested": "Winton himself said the credit belonged equally to Doreen Warriner and Trevor Chadwick, who did the dangerous work in Prague while he worked from London.",
+   "sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/nicholas-winton-and-the-rescue-of-children-from-czechoslovakia-1938-1939",
+    "https://en.wikipedia.org/wiki/Nicholas_Winton",
+    "https://hmd.org.uk/resource/sir-nicholas-winton/"
+   ]
+  },
+  {
+   "id": "witold-pilecki",
+   "name": "Witold Pilecki",
+   "blurb": "Got himself sent into Auschwitz to report on it from the inside",
+   "month": 5,
+   "day": 25,
+   "year": 1948,
+   "anchor_reason": "The day he was shot in Mokotow Prison in Warsaw by Poland's communist government.",
+   "date_confidence": "verified",
+   "story": "In September 1940 the Polish underground needed to know what was happening inside a new German camp called Auschwitz. Witold Pilecki, a cavalry officer, walked into a Warsaw street roundup under a false name so that he would be arrested and sent there. He arrived on the twenty-second of September and stayed for two and a half years. Inside the camp he built a secret network of prisoners, cell by cell. His people smuggled out reports on the beatings, the starvation, and later the gas chambers. Those reports reached London. In April 1943 he escaped during a night shift at the camp bakery and wrote a long account of what he had seen. After the war he stayed in Poland and kept gathering information for the government in exile. The new communist regime arrested him in 1947, put him through a show trial, and called him a spy. On the twenty-fifth of May 1948 he was shot in the back of the head in Mokotow Prison. His body was never found. He gave up his freedom twice, once by choice and once by force, and in the end he gave his life.",
+   "contested": "Some historians debate whether he volunteered for the Auschwitz mission or was assigned to it by his commanders.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Witold_Pilecki",
+    "https://www.auschwitz.org/en/museum/news/67th-anniversary-of-the-death-of-cavalry-captain-witold-pilecki,1154.html",
+    "https://artsandculture.google.com/asset/the-report-on-the-execution-of-witold-pilecki-on-25-may-1948/GQHgsMsrzM-rSA?hl=en"
+   ]
+  },
+  {
+   "id": "mbaye-diagne",
+   "name": "Mbaye Diagne",
+   "blurb": "Unarmed peacekeeper who drove hundreds past death squads in Kigali",
+   "month": 5,
+   "day": 31,
+   "year": 1994,
+   "anchor_reason": "The day a mortar shell hit his jeep at a checkpoint in Kigali and killed him.",
+   "date_confidence": "verified",
+   "story": "Mbaye Diagne was a Senegalese army captain serving as an unarmed United Nations observer in Rwanda. When the genocide began in April 1994, his orders were not to intervene. He ignored them. Early on he found the children of the murdered prime minister hiding in a house, got them into his vehicle, and later got them out of the country. Then he kept going. Day after day he drove through Kigali with Tutsis hidden in his jeep, talking his way past militia roadblocks with jokes and cigarettes, five people at a time. He took them to the Hotel des Mille Collines, the stadium, and other places under United Nations guard. Estimates of the people he saved run from several hundred to more than one thousand. On the thirty-first of May 1994, twelve days before his tour was to end, a mortar shell hit his jeep at a checkpoint and killed him instantly. He left a wife and two small children in Senegal. In 2014 the United Nations created a medal for exceptional courage and put his name on it. He gave up his own safety every day for weeks, and then his life.",
+   "contested": "Estimates of how many people he saved range widely, from dozens to more than a thousand.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mbaye_Diagne",
+    "https://news.un.org/en/story/2016/05/529702-feature-family-un-peacekeeper-who-saved-hundreds-lives-rwanda-shares-memories",
+    "https://kgm.rw/at-the-kigali-genocide-memorial-senegalese-captain-honoured-for-heroism-during-genocide-against-the-tutsi/"
+   ]
+  },
+  {
+   "id": "clair-patterson",
+   "name": "Clair Patterson",
+   "blurb": "Found lead everywhere, then spent twenty years getting it out of gasoline",
+   "month": 6,
+   "day": 2,
+   "year": 1922,
+   "anchor_reason": "His birthday, in Mitchellville, Iowa.",
+   "date_confidence": "verified",
+   "story": "Clair Patterson was a geochemist at the California Institute of Technology. In the 1950s he set out to measure the age of the Earth by counting lead atoms in meteorites. He kept getting the wrong answer, because lead contaminated everything in his lab. He built the cleanest laboratory in the world, and in 1956 he put the age of the Earth at four and a half billion years. Then he asked where all that lead came from. The answer was gasoline. He measured lead in ocean water, in Greenland snow, and in the bones of people who had lived centuries earlier, and he showed that modern people carried far more lead than their ancestors. In 1965 he published his findings and said so in public. The lead industry pushed back hard. Research contracts from the oil companies and the United States Public Health Service dried up. The Clean Air Act passed in 1970, unleaded gasoline came in 1975, and leaded fuel for cars was gone from the United States by 1996. He gave up funding, allies, and years of his career to say something the industry did not want said.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Clair_Patterson",
+    "https://physicstoday.aip.org/news/clair-patterson"
+   ]
+  },
+  {
+   "id": "mildred-and-richard-loving",
+   "name": "Mildred and Richard Loving",
+   "blurb": "Married across the color line and took Virginia to the Supreme Court",
+   "month": 6,
+   "day": 12,
+   "year": 1967,
+   "anchor_reason": "The day the Supreme Court decided Loving versus Virginia, nine to nothing.",
+   "date_confidence": "verified",
+   "story": "Mildred Jeter was a Black and Native American woman. Richard Loving was a white bricklayer. They grew up near each other in Caroline County, Virginia, and in June 1958 they drove to Washington to get married, because Virginia law forbade it. Five weeks later, on the eleventh of July, the sheriff and two deputies walked into their bedroom at two in the morning and arrested them. A judge gave them a year in prison, suspended on one condition. They had to leave Virginia and not come back together for twenty-five years. They moved to Washington. Mildred hated the city and missed her family. In 1963 she wrote to Attorney General Robert Kennedy asking for help. His office sent her to the American Civil Liberties Union, and two young lawyers, Bernard Cohen and Philip Hirschkop, took the case for free. On the twelfth of June 1967 the Supreme Court struck down every law against interracial marriage in the United States. The vote was nine to nothing. Richard died in a car crash in 1975. Mildred lived quietly in Virginia until 2008. They gave up their home, their families, and nine years of ordinary life to be allowed to be married.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Loving_v._Virginia",
+    "https://www.law.cornell.edu/supremecourt/text/388/1"
+   ]
+  },
+  {
+   "id": "frank-wills",
+   "name": "Frank Wills",
+   "blurb": "Night guard who noticed a taped door latch and called the police",
+   "month": 6,
+   "day": 17,
+   "year": 1972,
+   "anchor_reason": "The night he found tape on a stairwell door at the Watergate and called the police.",
+   "date_confidence": "verified",
+   "story": "Frank Wills was twenty-four years old and earned eighty dollars a week as a night security guard at the Watergate office building in Washington. Early on the morning of the seventeenth of June 1972, on his first round, he noticed a piece of tape holding a stairwell door latch open. He pulled it off and kept walking. Half an hour later he came back and the door was taped again. He called the police. Officers found five men inside the offices of the Democratic National Committee with cameras and bugging equipment. The trail from those five men led to the White House, and two years later President Nixon resigned. Wills got a raise of two dollars and fifty cents a week. He left the job, struggled to find another, and spent years in odd jobs while caring for his mother in South Carolina. In 1983 he served a year in jail for shoplifting a pair of shoes. He died of a brain tumor in 2000 at fifty-two. He did his job when it would have been easier not to, and it cost him the rest of his working life.",
+   "contested": "Accounts differ on whether he received a small raise or nothing at all after the break-in.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Frank_Wills_(security_guard)",
+    "https://rediscovering-black-history.blogs.archives.gov/2022/06/17/frank-wills",
+    "https://www.postandcourier.com/features/the-post-and-the-forgotten-security-guard-who-discovered-the-watergate-break-in/article_2de2d45d-3050-5c7f-9ecf-daed48057215.html"
+   ]
+  },
+  {
+   "id": "alan-turing",
+   "name": "Alan Turing",
+   "blurb": "Broke the German naval code, then was prosecuted by the country he saved",
+   "month": 6,
+   "day": 23,
+   "year": 1912,
+   "anchor_reason": "His birthday, in London.",
+   "date_confidence": "verified",
+   "story": "Alan Turing was a mathematician. In 1939 he went to Bletchley Park, the secret British code-breaking center. The German navy used Enigma machines to encrypt orders to its submarines, and the submarines were sinking the ships that fed Britain. Turing designed a machine called the bombe that could test thousands of possible settings and find the day's key. His section broke the naval code, and convoys began to get through. One historian estimates his work shortened the war in Europe by more than two years. None of this was public. In 1952 police learned he had a relationship with a man, and he was convicted of gross indecency. To stay out of prison he accepted a year of hormone injections. His security clearance was taken away. On the seventh of June 1954 he was found dead of cyanide poisoning at forty-one. Britain apologized in 2009 and pardoned him in 2013. He gave the country its greatest secret weapon, and it took his work, his privacy, and his dignity in return.",
+   "contested": "The inquest ruled suicide, but some biographers argue the poisoning may have been accidental.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alan_Turing",
+    "https://www.turing.org.uk/"
+   ]
+  },
+  {
+   "id": "helen-keller",
+   "name": "Helen Keller",
+   "blurb": "Deaf and blind from infancy, fought for people no one else would",
+   "month": 6,
+   "day": 27,
+   "year": 1880,
+   "anchor_reason": "Her birthday, in Tuscumbia, Alabama.",
+   "date_confidence": "verified",
+   "story": "Helen Keller lost her sight and hearing to an illness at nineteen months old. For five years she had no language at all. In March 1887 a twenty-year-old teacher named Anne Sullivan came to her home in Alabama and began spelling words into her hand. One morning at the water pump the word and the thing connected. In 1904 she graduated from Radcliffe College, the first deaf and blind person in the United States to earn a degree. She joined the Socialist Party in 1909 and campaigned for workers, for women's votes, and against the war. Newspapers that had praised her as a marvel now said her disabilities made her judgment unreliable. She answered that they were the ones who could not see. In 1920 she helped found the American Civil Liberties Union. From 1924 she worked for the American Foundation for the Blind for more than forty years. She gave up the safe role of an inspiring story to say things that got her attacked, and kept saying them for sixty years.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Helen_Keller",
+    "https://www.afb.org/about-afb/history/helen-keller/biography-and-chronology/biography"
+   ]
+  },
+  {
+   "id": "ignaz-semmelweis",
+   "name": "Ignaz Semmelweis",
+   "blurb": "Made doctors wash their hands and cut deaths in childbirth by ninety percent",
+   "month": 7,
+   "day": 1,
+   "year": 1818,
+   "anchor_reason": "His birthday, in Buda, Hungary. The handwashing order came in mid-May 1847, but the sources do not agree on the exact day.",
+   "date_confidence": "verified",
+   "story": "Ignaz Semmelweis was a young doctor at the Vienna General Hospital in 1846. The hospital had two maternity clinics. In the one run by doctors and medical students, about one mother in ten died of childbed fever. In the one run by midwives, far fewer did. Semmelweis wanted to know why. In 1847 a colleague died after cutting his finger during an autopsy, and his body showed the same damage as the mothers. The doctors went straight from dissecting corpses to examining women in labor, and they carried something on their hands. In the middle of May 1847 he ordered every doctor and student to scrub in chlorinated lime before touching a patient. Deaths fell from eighteen percent in April to about two percent by June, and stayed there. His colleagues were insulted. Nobody knew about germs yet, and he could not explain why it worked. He lost his post and left Vienna. In 1865 he was tricked into an asylum, beaten by the guards, and died two weeks later at forty-seven. He gave up his career and his reputation to say that the doctors were killing their patients.",
+   "contested": "The exact day in May 1847 when handwashing began is not recorded; some popular sources say the fifteenth, but scholarly sources say only mid-May.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+    "https://semmelweis.hu/english/about-semmelweis-university/semmelweis200/",
+    "https://theconversation.com/ignaz-semmelweis-the-doctor-who-discovered-the-disease-fighting-power-of-hand-washing-in-1847-135528"
+   ]
+  },
+  {
+   "id": "andree-borrel",
+   "name": "Andrée Borrel",
+   "blurb": "First woman parachuted into occupied France, ran couriers for the largest resistance network",
+   "month": 7,
+   "day": 6,
+   "year": 1944,
+   "anchor_reason": "The day she was killed at the Natzweiler-Struthof concentration camp.",
+   "date_confidence": "verified",
+   "story": "Andrée Borrel was a working-class Parisian, twenty years old when France fell in 1940. She joined an escape line that hid downed Allied airmen and walked them toward Spain. When the line was betrayed in 1941 she got out through Spain and Portugal to England, and the British Special Operations Executive trained her as an agent. On the night of the twenty-fourth of September 1942 she and Lise de Baissac jumped from a bomber over the French countryside, the first women the service ever parachuted into occupied France. She went to Paris and became courier and second in command of the Prosper network, the largest British-backed resistance circuit in the country. In June 1943 the Gestapo rolled up the network and arrested her. She was held for a year and gave up nothing. In May 1944 she and three other women agents were moved to Natzweiler-Struthof. On the sixth of July 1944 each was injected with phenol and put in the crematorium. She was twenty-four. She gave up safety in England, and then her life, for a country that had already surrendered.",
+   "contested": "Witnesses said one of the four women fought back and scratched the executioner's face; accounts differ on which woman it was.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Andr%C3%A9e_Borrel",
+    "https://www.normandy1944.info/stories/andree-borrel"
+   ]
+  },
+  {
+   "id": "ida-b-wells",
+   "name": "Ida B. Wells",
+   "blurb": "Counted the lynchings and printed the truth when a mob burned her press",
+   "month": 7,
+   "day": 16,
+   "year": 1862,
+   "anchor_reason": "Her birthday, in Holly Springs, Mississippi, born into slavery months before emancipation.",
+   "date_confidence": "verified",
+   "story": "Ida B. Wells was born into slavery in Mississippi in 1862 and orphaned at sixteen by yellow fever. By 1889 she owned part of a Black newspaper in Memphis. In March 1892 her friend Thomas Moss, who ran a grocery store, was dragged from jail with two of his partners and shot by a white mob. Their offense was competing with a white grocer. Wells started investigating lynchings across the South with names, dates, and what actually happened. She found that the usual excuse, that Black men had attacked white women, was false in case after case. She wrote that in an editorial in May 1892. While she was out of town a mob destroyed her press and warned that she would be killed if she came back. She moved north and published the numbers instead, in pamphlets called Southern Horrors and A Red Record,. She helped found the National Association for the Advancement of Colored People in 1909. She died in Chicago in 1931. She gave up her home, her newspaper, and any chance of a quiet life to put the facts on the record.",
+   "contested": "Her name was left off the original list of NAACP founders, an omission she blamed on W. E. B. Du Bois.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ida_B._Wells",
+    "https://www.nps.gov/people/idabwells.htm"
+   ]
+  },
+  {
+   "id": "gino-bartali",
+   "name": "Gino Bartali",
+   "blurb": "Tour de France champion who carried forged papers for Jews inside his bicycle frame",
+   "month": 7,
+   "day": 18,
+   "year": 1914,
+   "anchor_reason": "His birthday, in Ponte a Ema, outside Florence.",
+   "date_confidence": "verified",
+   "story": "Gino Bartali won the Tour de France in 1938 and was the most famous athlete in Italy. When the Germans occupied the country in September 1943, Jews in Florence faced deportation. The Archbishop of Florence, Cardinal Elia Dalla Costa, and Rabbi Nathan Cassuto ran a network that hid them in convents and made them false identity papers. The papers had to move between Florence, Assisi, Lucca, and Genoa, past checkpoints. Bartali carried them. He rolled the documents and photographs up, hid them inside the hollow frame of his racing bike, and rode. Everyone knew his face. Soldiers stopped him for autographs and he asked them not to touch the bike, because it was tuned for racing. He rode hundreds of kilometers at a time, in training clothes, and the story held. The network is credited with saving several hundred people. After the war he said almost nothing about it, even to his family. He won the Tour again in 1948. Yad Vashem named him Righteous Among the Nations in 2013, thirteen years after his death. He risked a firing squad on every ride, and then gave up the credit.",
+   "contested": "Some Italian historians have questioned how much wartime evidence supports the extent of his rescue work, while the Yad Vashem investigator has defended the recognition.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gino_Bartali",
+    "https://encyclopedia.ushmm.org/content/en/article/gino-bartali",
+    "https://righteous.yadvashem.org/?itemId=6564267"
+   ]
+  },
+  {
+   "id": "peter-buxtun",
+   "name": "Peter Buxtun",
+   "blurb": "Government clerk who leaked the Tuskegee syphilis study after six years of being ignored",
+   "month": 7,
+   "day": 25,
+   "year": 1972,
+   "anchor_reason": "The day the Associated Press story he made possible ran in the Washington Star.",
+   "date_confidence": "verified",
+   "story": "Peter Buxtun was twenty-eight and worked for the United States Public Health Service in San Francisco. In 1966 he overheard colleagues talking about a study in Alabama. Since 1932 the government had been following about four hundred Black men with syphilis around Tuskegee, telling them they were being treated for bad blood, and deliberately not treating them. The point of the study was to watch the disease run its course until the men died and could be autopsied. Buxtun wrote a formal protest in November 1966. He was told the study was not finished. He wrote again in 1968. The concerns were ruled irrelevant. He left the service and went to law school, but he did not let it go. In 1972 he gave his documents to a reporter friend at the Associated Press, and the story ran on the twenty-fifth of July 1972. The government ended the study within months, Congress held hearings, and the rules for human research in the United States were rewritten. He gave up his government career and spent six years being told no before anyone would listen.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Buxtun",
+    "https://www.wfae.org/race-equity/2022-08-01/reporter-jean-heller-recalls-how-she-broke-the-story-of-the-tuskegee-syphilis-study-50-years-ago",
+    "https://www.legacy.com/news/celebrity-deaths/peter-buxtun-1937-2024-tuskegee-syphilis-experiment-whistleblower/"
+   ]
+  },
+  {
+   "id": "jan-karski",
+   "name": "Jan Karski",
+   "blurb": "Smuggled himself into the Warsaw ghetto, then told Roosevelt what he saw",
+   "month": 7,
+   "day": 28,
+   "year": 1943,
+   "anchor_reason": "The day he described the murder of Poland's Jews to President Roosevelt at the White House.",
+   "date_confidence": "verified",
+   "story": "Jan Karski was a courier for the Polish underground. In 1942, Jewish leaders in Warsaw asked him to carry a message to the Allies. To make sure he could speak as a witness, they smuggled him twice into the Warsaw ghetto, and then, dressed as a guard, into a transit camp at Izbica where Jews were being packed into freight cars for the death camp at Belzec. He saw people dying in the streets. He memorised it all. He crossed occupied Europe to London and reported to the Polish government in exile and to the British foreign secretary. Then he went to Washington. On July 28, 1943, he sat with President Roosevelt in the White House for over an hour and told him that the Jews of Poland were being wiped out. Roosevelt asked about horses and the underground, and, by Karski's account, not one question about the Jews. Nothing changed. After the war Karski stayed in Washington and taught at Georgetown University for forty years. For most of that time he did not talk about what he had seen. He risked torture and death to carry a message that the powerful chose not to hear.",
+   "contested": null,
+   "sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/jan-karski",
+    "http://www.fdrlibrary.marist.edu/daybyday/event/july-1943/",
+    "https://guides.library.georgetown.edu/c.php?g=1076777&p=7843909"
+   ]
+  },
+  {
+   "id": "ludwig-guttmann",
+   "name": "Ludwig Guttmann",
+   "blurb": "Turned paralysed veterans into athletes and started the Paralympic Games",
+   "month": 7,
+   "day": 29,
+   "year": 1948,
+   "anchor_reason": "The day of the first Stoke Mandeville Games, an archery contest for sixteen paralysed veterans.",
+   "date_confidence": "verified",
+   "story": "Ludwig Guttmann was a Jewish neurosurgeon in Germany. In 1939 he fled the Nazis and came to England with his family. In 1944 the British government asked him to open a spinal injuries unit at Stoke Mandeville Hospital, with two nurses and eight orderlies. At that time a soldier with a broken back had bleak prospects. Most doctors thought little could be done for him. Guttmann refused to accept that. He was kind to his patients and he made them work. He decided sport was part of the medicine, because it gave them a reason to get up and a way back into society. On 29 July 1948, the same day the London Olympics opened, he held an archery contest at the hospital. Sixteen paralysed servicemen and women took part. In his welcome speech that day he said he dreamed of an Olympic Games for people with disabilities. The Games grew every year. In 1960 they moved to Rome and became the first Paralympics. He gave up his home, his language, and his career in Germany, and then he staked his reputation on patients that the rest of medicine had written off.",
+   "contested": null,
+   "sources": [
+    "https://www.paralympic.org/news/stoke-mandeville-70-celebrating-sir-ludwig-guttmann",
+    "https://www.nationalarchives.gov.uk/explore-the-collection/stories/sir-ludwig-guttmann-and-the-birth-of-the-paralympic-games/",
+    "https://www.paralympicheritage.org.uk/1940s-the-beginning"
+   ]
+  },
+  {
+   "id": "henrietta-lacks",
+   "name": "Henrietta Lacks",
+   "blurb": "Her cells, taken without consent, still power medical research worldwide",
+   "month": 8,
+   "day": 1,
+   "year": 1920,
+   "anchor_reason": "Her birthday. She was born Loretta Pleasant in Roanoke, Virginia.",
+   "date_confidence": "verified",
+   "story": "Henrietta Lacks was born on 1 August 1920 in Roanoke, Virginia. She raised five children. Early in 1951 she went to Johns Hopkins Hospital with cervical cancer. During her treatment doctors took two pieces of her tumor without asking her. She died on 4 October 1951. Her cells did not die. They kept dividing in the laboratory, the first human cells ever to do that, and they were named HeLa. They helped make the polio vaccine and have been used in research on cancer, viruses, and much else. Her family did not learn any of this until 1975. They were never paid. A 2010 book brought the family's story to the public. In 2013 the family reached an agreement with the National Institutes of Health that gives them a say in who may use her genetic data. In 2023 the family settled a lawsuit against a company that had sold products made from her cells. She did not choose any of this. She gave her cells without knowing it, and her family gave decades of effort to make sure her name stayed attached to them.",
+   "contested": "Her cells were taken without her knowledge or consent, and the family was not told for more than twenty years or paid for their use.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Henrietta_Lacks",
+    "https://msa.maryland.gov/msa/educ/exhibits/womenshallfame/html/lacks.html",
+    "https://www.biography.com/history-culture/henrietta-lacks"
+   ]
+  },
+  {
+   "id": "miep-gies",
+   "name": "Miep Gies",
+   "blurb": "Hid the Frank family for two years and saved Anne's diary",
+   "month": 8,
+   "day": 4,
+   "year": 1944,
+   "anchor_reason": "The day the Secret Annex was raided and she gathered Anne's diary from the floor.",
+   "date_confidence": "verified",
+   "story": "Miep Gies was an office worker in Amsterdam. Her boss was Otto Frank. In 1942 he asked her to help hide his family in rooms behind the office. She said yes at once. For two years she brought food, books, and news to the eight people in the Secret Annex, and she never told anyone. On 4 August 1944 the police raided the building and arrested everyone in hiding. The officer in charge was from Vienna, the city Miep was born in, and that is probably why he let her go. That afternoon she went to the police station with all the money she could gather and tried to buy the family's release. It did not work. Then she went back upstairs. Anne's diary and loose pages lay scattered on the floor. Miep and her colleague Bep gathered them up. Miep locked them in her desk drawer, unread, to give back to Anne. Anne died in Bergen-Belsen. In July 1945, when Otto learned both his daughters were dead, Miep handed him the papers. She lived to be one hundred. She risked arrest, prison, and death every day for two years, for people who were not her family.",
+   "contested": "Who betrayed the people in the Annex, and whether there was a betrayal at all, is still disputed.",
+   "sources": [
+    "https://www.annefrank.org/en/anne-frank/main-characters/miep-gies/",
+    "https://hmd.org.uk/resource/miep-gies/",
+    "https://www.annefrank.org/en/anne-frank/go-in-depth/reconstruction-arrest-people-hiding/"
+   ]
+  },
+  {
+   "id": "frances-kelsey",
+   "name": "Frances Kelsey",
+   "blurb": "Refused to approve thalidomide and spared the United States a catastrophe",
+   "month": 8,
+   "day": 7,
+   "year": 1962,
+   "anchor_reason": "The day President Kennedy gave her the President's Award for Distinguished Federal Civilian Service. She died on the same date in 2015.",
+   "date_confidence": "verified",
+   "story": "Frances Kelsey was a doctor and a pharmacologist. In 1960 she took a job at the Food and Drug Administration in Washington. One of her first files was thalidomide, a sedative already sold in more than twenty countries, and the maker expected quick approval. Kelsey read the file and found the safety evidence thin. She asked for more. The company sent more paper and complained to her superiors that she was being unreasonable. She kept asking. Then reports came from Germany and Britain of babies born with missing or shortened limbs. Their mothers had taken thalidomide in pregnancy. Thousands of children in Europe were affected. On 7 August 1962 President Kennedy gave her the President's Award for Distinguished Federal Civilian Service. Two months later Congress passed a law requiring drug makers to prove a drug is safe and works before it is sold. She died on 7 August 2015, aged one hundred and one, fifty-three years to the day after the award. She risked her new job and her reputation by saying no to a drug that everyone else had already said yes to.",
+   "contested": null,
+   "sources": [
+    "https://www.fda.gov/about-fda/fda-history-exhibits/frances-oldham-kelsey-medical-reviewer-famous-averting-public-health-tragedy",
+    "https://dlg.usg.edu/record/ugabma_wsbn_wsbn35791",
+    "https://en.wikipedia.org/wiki/Frances_Oldham_Kelsey"
+   ]
+  },
+  {
+   "id": "liviu-librescu",
+   "name": "Liviu Librescu",
+   "blurb": "Held his classroom door against a gunman so his students could escape",
+   "month": 8,
+   "day": 18,
+   "year": 1930,
+   "anchor_reason": "His birthday. He died holding the door at Virginia Tech on 16 April 2007.",
+   "date_confidence": "verified",
+   "story": "Liviu Librescu was born on 18 August 1930 in Ploiesti, Romania. As a boy in the Second World War he was confined to a Jewish ghetto while his father was sent to a labor camp. He survived, became an engineer, and earned a doctorate. Under the communist government his career was blocked, and he smuggled his research papers out of the country to be published abroad. In 1978, after years of effort, his family was allowed to leave for Israel. He taught at Tel Aviv University and in 1985 came to Virginia Tech as a professor of engineering. On the morning of 16 April 2007 a gunman was moving through Norris Hall. Librescu, then seventy-six, held his classroom door shut with his body and shouted to his students to get out through the windows. The room was on the second floor. They jumped. All but one of his twenty-three students survived. He was shot through the door and killed. It was Holocaust Remembrance Day. He was buried in Israel, and Romania gave him one of its highest honors. He gave his life, at seventy-six, for a room full of students.",
+   "contested": null,
+   "sources": [
+    "https://www.weremember.vt.edu/biographies/librescu.html",
+    "https://en.wikipedia.org/wiki/Liviu_Librescu",
+    "https://encyclopediavirginia.org/12580-1009d82f386a182/"
+   ]
+  },
+  {
+   "id": "fannie-lou-hamer",
+   "name": "Fannie Lou Hamer",
+   "blurb": "Told the nation on live television what Mississippi did to Black voters",
+   "month": 8,
+   "day": 22,
+   "year": 1964,
+   "anchor_reason": "The day she testified before the credentials committee of the Democratic National Convention.",
+   "date_confidence": "verified",
+   "story": "Fannie Lou Hamer was a sharecropper in Sunflower County, Mississippi, the youngest of twenty children. In 1962, at forty-four, she went to the courthouse to register to vote. She was turned away, and that night the plantation owner threw her off the land where she had worked for eighteen years. She kept going. In 1963 she was arrested in Winona and beaten in the jail so badly that she never fully recovered. In 1964 she helped found the Mississippi Freedom Democratic Party, because the regular state party kept Black voters out. On 22 August 1964 she sat before the credentials committee of the Democratic National Convention in Atlantic City, with television cameras running, and told them plainly what had happened to her. President Johnson was so worried that he called a sudden press conference to push her off the air. It did not work. The networks played her testimony that night. The party offered her delegation two seats. She refused, saying they had not come all that way for two seats. The next year the Voting Rights Act became law. She gave up her home, her job, and her health to say out loud what had been done to her.",
+   "contested": null,
+   "sources": [
+    "https://snccdigital.org/events/mfdp-challenge-at-democratic-national-convention/",
+    "https://billofrightsinstitute.org/activities/fannie-lou-hamer-testimony-before-the-credentials-committee-democratic-national-convention-august-22-1964",
+    "https://awpc.cattcenter.iastate.edu/2017/03/09/testimony-before-the-credentials-committee-democratic-national-convention-aug-22-1964/"
+   ]
+  },
+  {
+   "id": "bayard-rustin",
+   "name": "Bayard Rustin",
+   "blurb": "Organized the March on Washington and let others take the credit",
+   "month": 8,
+   "day": 28,
+   "year": 1963,
+   "anchor_reason": "The day of the March on Washington for Jobs and Freedom, which he organized.",
+   "date_confidence": "verified",
+   "story": "Bayard Rustin spent his life organizing for peace and civil rights. He went to prison for refusing to fight in the Second World War. In 1963 A. Philip Randolph asked him to plan the March on Washington. Rustin had about two months. He worked out the buses, the trains, the parking, the toilets, the marshals, the order of speakers, and the arrangements with the police. Some leaders did not want his name anywhere near the march. He was gay, he had been arrested for it in 1953, and as a young man he had belonged to a communist youth group. Days before the march, Senator Strom Thurmond stood in the Senate and read his arrest record into the Congressional Record. Randolph kept him on anyway, with the title of deputy director. On 28 August 1963 a quarter of a million people gathered peacefully on the Mall, and the day ran on time. King gave the speech everyone remembers. He received the Presidential Medal of Freedom in 2013, twenty-six years after he died. He gave up public credit for the biggest day of the movement, and he took every name Thurmond could think to call him.",
+   "contested": null,
+   "sources": [
+    "https://jfk.blogs.archives.gov/2020/08/27/making-the-march-on-washington/",
+    "https://en.wikipedia.org/wiki/Bayard_Rustin",
+    "https://www.npr.org/2021/02/22/970292302/remembering-bayard-rustin-the-man-behind-the-march-on-washington"
+   ]
+  },
+  {
+   "id": "maurice-hilleman",
+   "name": "Maurice Hilleman",
+   "blurb": "Made more than forty vaccines and put his name on none of them",
+   "month": 8,
+   "day": 30,
+   "year": 1919,
+   "anchor_reason": "His birthday. He was born on a farm outside Miles City, Montana.",
+   "date_confidence": "verified",
+   "story": "Maurice Hilleman was born on 30 August 1919 on a farm outside Miles City, Montana. His twin sister died at birth and his mother died two days later. He was raised by an uncle. He spent most of his career at the drug company Merck, where he ran the vaccine laboratory. In 1957 he saw a report of a flu outbreak in Hong Kong, decided a pandemic was coming, and had forty million doses of vaccine ready when it reached the United States. In 1963 his daughter Jeryl Lynn woke up with mumps. He swabbed her throat, drove the sample to his lab, and grew the virus. The strain from her throat is still in the mumps vaccine children get today. In all, he and his team made more than forty vaccines, among them measles, mumps, rubella, hepatitis A, hepatitis B, chickenpox, and meningitis. One estimate says his work saves eight million lives a year. Not one vaccine carries his name. He died in 2005, largely unknown to the public. He gave up fame and any claim on his own discoveries, and worked forty years for people who never learned his name.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maurice_Hilleman",
+    "https://historyofvaccines.org/history/maurice-hilleman-phd/overview/",
+    "https://hillemanfilm.com/dr-hilleman"
+   ]
+  },
+  {
+   "id": "jane-addams",
+   "name": "Jane Addams",
+   "blurb": "Moved into a Chicago slum, built Hull House, then opposed a popular war",
+   "month": 9,
+   "day": 6,
+   "year": 1860,
+   "anchor_reason": "Her birthday. She was born in Cedarville, Illinois.",
+   "date_confidence": "verified",
+   "story": "Jane Addams was born on 6 September 1860 in Cedarville, Illinois, into a prosperous family. She was sick for much of her childhood with a disease of the spine. In 1889, at twenty-eight, she and her friend Ellen Gates Starr moved into an old mansion on Halsted Street in Chicago, in a neighborhood packed with poor immigrant families. They called it Hull House. It grew to thirteen buildings with a kindergarten, a day nursery, a gym, an art gallery, English classes, and the first public playground in Chicago. Two thousand people came through the doors each week. Addams fought for child labor laws, for garbage collection in her ward, and for the vote for women. She helped found the NAACP. Then came the First World War. She opposed it in public, from the start, when nearly everyone in the country was for it. Newspapers turned on her. The Daughters of the American Revolution expelled her. In 1931 she became the first American woman to win the Nobel Peace Prize, and she gave the money away. She died in 1935. She gave up a comfortable life, and then she gave up the public's affection, to say what she believed about war.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jane_Addams",
+    "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+    "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/"
+   ]
+  },
+  {
+   "id": "john-snow",
+   "name": "John Snow",
+   "blurb": "Traced London cholera to one water pump and had the handle removed",
+   "month": 9,
+   "day": 8,
+   "year": 1854,
+   "anchor_reason": "The day the Broad Street pump handle was removed at his urging.",
+   "date_confidence": "verified",
+   "story": "John Snow was a doctor in London. In the 1850s nearly every physician believed cholera spread through bad air. Snow thought it spread through the water people drank. On 31 August 1854 cholera broke out in Soho. Within ten days five hundred people were dead. Snow walked the streets and knocked on doors. He wrote down where each person who died had lived and marked the deaths on a map. They clustered around one water pump on Broad Street. A workhouse nearby with its own well had almost no deaths. A brewery whose workers drank beer had none. On the evening of 7 September he took his evidence to the parish board and asked them to shut the pump. On 8 September 1854 the handle came off the pump. The outbreak was already fading by then, and Snow himself said so. He was not vindicated in his lifetime. He died in 1858, aged forty-five. It took another epidemic, in 1866, for the authorities to accept that he had been right. He risked his standing in his profession to argue for something nobody could yet see.",
+   "contested": "The outbreak was already declining when the handle came off, so historians debate how much the removal itself did.",
+   "sources": [
+    "https://www.londonmuseum.org.uk/collections/london-stories/john-snow-cholera-broad-street-pump/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/",
+    "https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/something-in-the-water-the-mythology-of-snows-map-of-cholera"
+   ]
+  },
+  {
+   "id": "rick-rescorla",
+   "name": "Rick Rescorla",
+   "blurb": "Drilled Morgan Stanley for years, then walked 2,700 people out of the South Tower",
+   "month": 9,
+   "day": 11,
+   "year": 2001,
+   "anchor_reason": "The day he evacuated Morgan Stanley from the South Tower and went back in.",
+   "date_confidence": "verified",
+   "story": "Rick Rescorla was born in Cornwall, England,. He joined the United States Army and fought in Vietnam. He became head of security for the brokerage firm that is now Morgan Stanley, in the World Trade Center. In 1990 he warned the building's owners that a truck bomb could be driven into the parking garage. In 1993 that is exactly what happened. After that he decided the towers would be attacked again, and he made every employee practice walking down the stairs, two by two, several times a year. On the morning of 11 September 2001 the north tower was hit. A voice on the loudspeaker in the south tower told people to stay at their desks. Rescorla picked up a bullhorn and ordered everyone out. He sang Cornish songs in the stairwell to keep people calm. Then the second plane hit his tower. About two thousand seven hundred employees got out. He went back up for stragglers. He was last seen on the tenth floor. Thirteen Morgan Stanley people died, and he was one of them. His body was never found. He gave his life to go back into a building he knew was about to fall.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rick_Rescorla",
+    "https://www.cmohs.org/citizen-honors/rick-rescorla",
+    "https://ourhistory.morganstanley.com/stories/surviving-the-crisis/story-2001-september-11"
+   ]
+  },
+  {
+   "id": "stanislav-petrov",
+   "name": "Stanislav Petrov",
+   "blurb": "Judged a Soviet missile warning a false alarm and did not report an attack",
+   "month": 9,
+   "day": 26,
+   "year": 1983,
+   "anchor_reason": "The night he decided the satellite warning of five American missiles was a malfunction.",
+   "date_confidence": "verified",
+   "story": "Stanislav Petrov is a lieutenant colonel in the Soviet Air Defense Forces. Just after midnight on 26 September 1983 he is the duty officer at Serpukhov-15, the bunker near Moscow that watches the early warning satellites. The screen lights up. The system reports one American missile in the air, then four more. Sirens sound. His orders say he must report a launch up the chain, and the men above him would have minutes to decide on a counterstrike. Petrov does not believe it. A real first strike would be hundreds of missiles, not five. The satellite system is new, and he does not trust it. Ground radar sees nothing. He reports a malfunction and waits. Nothing hits. The investigation finds that sunlight glinting off high clouds fooled the satellites. He is praised at first, then reprimanded over paperwork, moved to a quieter post, and retired early. He suffers a breakdown. The story stays secret until 1998. He died in 2017 in a small town outside Moscow. He risked his career, and had he been wrong, his whole country, on his own judgement that the machine was lying.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident",
+    "https://en.wikipedia.org/wiki/Stanislav_Petrov",
+    "https://www.historyskills.com/classroom/year-10/stanislav-petrov"
+   ]
+  },
+  {
+   "id": "rachel-carson",
+   "name": "Rachel Carson",
+   "blurb": "Wrote Silent Spring while dying of cancer and took on the chemical industry",
+   "month": 9,
+   "day": 27,
+   "year": 1962,
+   "anchor_reason": "The day Houghton Mifflin published Silent Spring as a book.",
+   "date_confidence": "verified",
+   "story": "Rachel Carson was a marine biologist and a writer. Her books about the sea were bestsellers. In 1958 she began looking into DDT and the other new pesticides being sprayed over farms, forests, and suburbs across the United States. She spent four years gathering evidence. Birds were dying. The chemicals were building up in soil, in water, in fish, and in people. While she wrote she was being treated for breast cancer, and she told almost no one. In June 1962 The New Yorker printed the book in three parts. On 27 September 1962 Houghton Mifflin published Silent Spring. The chemical industry attacked her at once. They called her hysterical, a spinster, and a fiction writer, and one company threatened to sue her publisher. She answered them calmly, on television and before a Senate committee in 1963, with her data. She died in April 1964, eighteen months after the book came out. In 1970 the United States created the Environmental Protection Agency, and in 1972 it banned DDT. She spent the last years of her life, and what strength she had left, on a fight she knew she would not live to see the end of.",
+   "contested": "Critics still argue over whether restrictions on DDT cost lives to malaria, though Carson argued for limits, not a total ban.",
+   "sources": [
+    "https://www.history.com/this-day-in-history/september-27/rachel-carson-silent-spring-published",
+    "https://www.rachelcarson.org/silent-spring",
+    "https://en.wikipedia.org/wiki/Silent_Spring"
+   ]
+  },
+  {
+   "id": "sergei-preminin",
+   "name": "Sergei Preminin",
+   "blurb": "Pushed a submarine reactor's last control rod home by hand and died inside",
+   "month": 10,
+   "day": 3,
+   "year": 1986,
+   "anchor_reason": "The day he shut down the K-219 reactor by hand and died in the compartment.",
+   "date_confidence": "verified",
+   "story": "Sergei Preminin is a twenty year old seaman from a village in northern Russia. On 3 October 1986 his submarine, K-219, is on patrol in the Atlantic northeast of Bermuda when a missile tube explodes and fire spreads through the boat. The reactors must be shut down, but the explosion has wrecked the remote controls. Someone has to walk into the reactor compartment and push the control rods down by hand. Lieutenant Nikolai Belikov goes in first, with Preminin beside him. The compartment is about one hundred and sixty degrees Fahrenheit. They force three of the four rods home. Belikov passes out. Preminin goes back alone in a gas mask and drives the last rod into place. The reactor is safe. Then he tries to leave. The fire has raised the pressure on his side of the hatch, and the door will not open. The crew on the other side cannot pull it free. He dies inside. The submarine sinks three days later, but its reactors never melted. Russia named him a Hero of the Russian Federation in 1997. He gave up his life at twenty to keep a reactor from poisoning the sea.",
+   "contested": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Soviet_submarine_K-219",
+    "https://en.wikipedia.org/wiki/Sergey_Preminin",
+    "https://www.slashgear.com/1591750/soviet-submarine-k-219-avoided-nuclear-disaster-history/"
+   ]
+  },
+  {
+   "id": "desmond-doss",
+   "name": "Desmond Doss",
+   "blurb": "Unarmed medic who lowered seventy-five wounded men down a cliff on Okinawa",
+   "month": 10,
+   "day": 12,
+   "year": 1945,
+   "anchor_reason": "The day President Truman hung the Medal of Honor around his neck on the White House lawn.",
+   "date_confidence": "verified",
+   "story": "Desmond Doss was a Seventh-day Adventist from Lynchburg, Virginia. He believed killing was wrong, so when he was drafted in 1942 he refused to carry a rifle. He asked to serve as a medic instead. The men in his company mocked him, threw boots at him, and tried to have him thrown out of the Army. He stayed. In May 1945 his unit climbed a steep cliff on Okinawa that the soldiers called Hacksaw Ridge. The Japanese counterattacked and the company fell back down the cliff, leaving the wounded on top. Doss stayed up there alone. One by one he dragged the injured men to the edge, tied them into a rope sling, and lowered them down the cliff face. He kept going for hours. The Army credits him with saving seventy-five men. Weeks later a grenade shredded his legs, and a sniper's bullet broke his arm. On October 12, 1945, President Truman gave him the Medal of Honor, the first ever awarded to a conscientious objector. He risked his life every time he went back for another man, and he carried the wounds for the rest of his.",
+   "contested": null,
+   "sources": [
+    "https://www.nationalww2museum.org/war/articles/private-first-class-desmond-thomas-doss-medal-of-honor",
+    "https://www.trumanlibrary.gov/photograph-records/66-3125",
+    "https://www.cmohs.org/news-events/medal-of-honor-recipient-profile/who-was-medal-of-honor-recipient-desmond-doss/"
+   ]
+  },
+  {
+   "id": "peter-norman",
+   "name": "Peter Norman",
+   "blurb": "Wore the human rights badge beside Smith and Carlos on the Olympic podium",
+   "month": 10,
+   "day": 16,
+   "year": 1968,
+   "anchor_reason": "The day of the 200 metre final and medal ceremony at the Mexico City Olympics.",
+   "date_confidence": "verified",
+   "story": "Peter Norman was a white sprinter from Melbourne, Australia, raised in a Salvation Army family. On October 16, 1968, he ran the 200 metre final at the Mexico City Olympics and finished second, between two Americans, Tommie Smith and John Carlos. His time was twenty seconds and six hundredths. No Australian has run faster since. Before the medal ceremony, Smith and Carlos told him they planned to raise gloved fists on the podium to protest the treatment of Black people in the United States. They asked if he believed in human rights. He said yes. He asked for a badge from the Olympic Project for Human Rights and pinned it to his tracksuit. When Carlos realised he had left his gloves behind, Norman suggested the two men share one pair. The photograph went around the world. Back home, Norman was treated coldly. He qualified for the 1972 Games many times over and was not selected. He died in 2006. Smith and Carlos flew to Australia to carry his coffin. Australia's parliament apologised to him in 2012. He gave up his standing in his own country for one quiet gesture beside two friends.",
+   "contested": null,
+   "sources": [
+    "https://www.nfsa.gov.au/collection/item/mexico-1968-peter-norman-athletics-and-black-power-salute",
+    "https://sahof.org.au/award-winner/peter-norman/",
+    "https://theconversation.com/fifty-years-later-peter-normans-heroic-olympic-stand-is-finally-being-recognised-at-home-102112"
+   ]
+  },
+  {
+   "id": "vasili-arkhipov",
+   "name": "Vasili Arkhipov",
+   "blurb": "Refused to consent to firing a nuclear torpedo during the Cuban Missile Crisis",
+   "month": 10,
+   "day": 27,
+   "year": 1962,
+   "anchor_reason": "The day he withheld his consent to launch the nuclear torpedo aboard submarine B-59.",
+   "date_confidence": "verified",
+   "story": "On 27 October 1962, the worst day of the Cuban Missile Crisis, the Soviet submarine B-59 is deep in the Caribbean, hunted by American destroyers. The crew has been submerged for days. The air is foul, the heat is brutal, and the batteries are nearly flat. The Americans drop small practice depth charges to force the boat to the surface. The captain, Valentin Savitsky, does not know they are practice charges. He has had no contact with Moscow, and he believes the war has started. B-59 carries one torpedo with a nuclear warhead. Savitsky orders it readied. The rules say three officers must agree: the captain, the political officer, and Vasili Arkhipov, chief of staff of the flotilla, who happens to be aboard this boat. The first two say yes. Arkhipov says no. He argues that the Americans are signaling, not attacking. He wins. The submarine surfaces and turns for home. Arkhipov stays in the navy and retires as a vice admiral. He died in 1998. What he risked was being wrong, with a hostile fleet overhead, and carrying the blame if the war was real.",
+   "contested": "The account of the argument on B-59 rests mainly on one witness, the radio officer Vadim Orlov, and Arkhipov himself never spoke publicly about the torpedo.",
+   "sources": [
+    "https://nsarchive.gwu.edu/briefing-book/russia-programs/2022-10-03/soviet-submarines-nuclear-torpedoes-cuban-missile-crisis",
+    "https://www.historyhit.com/vasili-arkhipov-the-soviet-officer-who-averted-nuclear-war/"
+   ]
+  },
+  {
+   "id": "georg-elser",
+   "name": "Georg Elser",
+   "blurb": "Carpenter who built a bomb to kill Hitler, alone, in 1939",
+   "month": 11,
+   "day": 8,
+   "year": 1939,
+   "anchor_reason": "The night his bomb exploded in the Munich beer hall, thirteen minutes after Hitler left.",
+   "date_confidence": "verified",
+   "story": "Georg Elser was a carpenter from a small town in southern Germany. He had no group behind him. In 1938 he decided on his own that Hitler had to die to stop the war he saw coming. He knew Hitler gave a speech in the Munich beer hall called the Bürgerbräukeller every November 8. He took a job in a quarry to steal explosives. Then, for more than thirty nights, he hid in the hall after closing time and hollowed out a stone pillar behind the speaker's platform. He fitted a clock timer and sealed the bomb inside. On November 8, 1939, the bomb went off at nine twenty in the evening. It killed seven people and wounded more than sixty. Hitler had cut his speech short and left the hall thirteen minutes earlier. Elser was arrested that same night at the Swiss border. The Gestapo could not believe he had acted alone. He was held in isolation for five years and shot at Dachau on April 9, 1945, weeks before the war ended. He gave his freedom and then his life, and for decades few in Germany would say his name.",
+   "contested": null,
+   "sources": [
+    "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/georg-elser/",
+    "https://www.gdw-berlin.de/en/recess/topics/7-georg-elser-and-the-assassination-attempt-of-november-8-1939",
+    "https://germanhistorydocs.org/en/nazi-germany-1933-1945/georg-elser-1939"
+   ]
+  },
+  {
+   "id": "ruby-bridges",
+   "name": "Ruby Bridges",
+   "blurb": "Six years old, walked past a screaming mob to integrate her New Orleans school",
+   "month": 11,
+   "day": 14,
+   "year": 1960,
+   "anchor_reason": "Her first day at William Frantz Elementary School in New Orleans.",
+   "date_confidence": "verified",
+   "story": "Ruby Bridges was six years old. On November 14, 1960, four federal marshals walked her up the steps of William Frantz Elementary School in New Orleans. She was the first Black child to attend the school. A crowd of white adults stood outside and screamed at her. Some carried a small coffin with a Black doll inside. Ruby later said she thought it was Mardi Gras. Inside, every white family pulled their children out. For the whole year she was the only student in her classroom. Her teacher, Barbara Henry, had come from Boston and was the only teacher willing to take her. The two of them did lessons, ate lunch, and played at recess together, alone. The marshals walked Ruby in and out every day. Her father lost his job. The grocery store told the family not to come back. Her grandparents were thrown off the Mississippi farm they had worked for years. Ruby kept going to school. She did not miss a day. She was a small child, and she gave up an ordinary childhood so that other children could walk through that door after her.",
+   "contested": null,
+   "sources": [
+    "https://calendar.eji.org/racial-injustice/nov/14",
+    "https://www.pbs.org/wgbh/americanexperience/features/neworleans-ruby-bridges-and-integration-new-orleans-schools/",
+    "https://www.womenshistory.org/education-resources/biographies/ruby-bridges"
+   ]
+  },
+  {
+   "id": "mary-seacole",
+   "name": "Mary Seacole",
+   "blurb": "Refused by the War Office, paid her own way to nurse soldiers in the Crimea",
+   "month": 11,
+   "day": 23,
+   "year": 1805,
+   "anchor_reason": "Her birthday, in Kingston, Jamaica.",
+   "date_confidence": "verified",
+   "story": "Mary Seacole was born in Kingston, Jamaica, on November 23, 1805. Her mother was a Jamaican healer who ran a boarding house for sick soldiers, and Mary learned nursing at her side. When war broke out in the Crimea in 1854, Mary heard that wounded British soldiers were dying of cholera and neglect. She went to London and asked the War Office to send her as a nurse. She had years of experience and knew many of the regiments from their time in Jamaica. She was turned down, again and again, including by one of Florence Nightingale's assistants. So she paid her own way. She sailed to the Crimea and built a place she called the British Hotel near Balaclava, a few miles from the front. She served hot food, sold supplies, and treated the sick and wounded. She rode out to the battlefield itself, under fire, to tend men where they fell. The soldiers called her Mother Seacole. When the war ended suddenly in 1856, she was left with stock nobody wanted, and she went bankrupt. She spent everything she had to do the work the Army said she could not do.",
+   "contested": "Some historians dispute how much of her work was nursing and how much was running a business, and the comparison with Florence Nightingale remains argued over.",
+   "sources": [
+    "https://nlj.gov.jm/project/mary-seacole-1805-1881/",
+    "https://www.maryseacoletrust.org.uk/learn-about-mary/",
+    "https://en.wikipedia.org/wiki/Mary_Seacole"
+   ]
+  },
+  {
+   "id": "vivien-thomas",
+   "name": "Vivien Thomas",
+   "blurb": "Paid as a janitor, he talked the surgeon through the first blue baby operation",
+   "month": 11,
+   "day": 29,
+   "year": 1944,
+   "anchor_reason": "The day of the first blue baby operation at Johns Hopkins, which he talked the surgeon through.",
+   "date_confidence": "verified",
+   "story": "Vivien Thomas grew up in Nashville and learned carpentry from his father. He was saving for college when the Depression wiped out his savings. In 1930 he took a job as a laboratory assistant to a surgeon named Alfred Blalock. He taught himself surgery on animals and soon ran the lab. Johns Hopkins had no job title for a Black surgical researcher, so for years he was listed and paid as a janitor. In the 1940s a doctor named Helen Taussig asked whether surgery could help babies born with a heart defect that turned their skin blue. Thomas worked out the operation on dogs, doing it about two hundred times until it was reliable. On November 29, 1944, Blalock operated on a fifteen month old girl named Eileen Saxon. He had never done the procedure on a person. He insisted that Thomas stand on a step stool behind him and talk him through each step. The child turned from blue to pink on the table. Thomas got no credit in the published paper. Hopkins gave him an honorary doctorate in 1976. He gave up decades of recognition and fair pay so the work itself could go on.",
+   "contested": null,
+   "sources": [
+    "https://www.hopkinsmedicine.org/news/articles/2019/11/celebrating-a-transformative-medical-milestone",
+    "https://pages.jh.edu/gazette/aprjun95/may3095/30blue.html",
+    "https://en.wikipedia.org/wiki/Vivien_Thomas"
+   ]
+  },
+  {
+   "id": "frank-serpico",
+   "name": "Frank Serpico",
+   "blurb": "New York police officer who refused bribes and testified against his own department",
+   "month": 12,
+   "day": 14,
+   "year": 1971,
+   "anchor_reason": "The day he gave his main public testimony to the Knapp Commission on police corruption.",
+   "date_confidence": "verified",
+   "story": "Frank Serpico joined the New York City police in 1959. He soon found that officers around him took regular payments from gamblers, drug dealers, and shop owners. He refused to take the money. He reported what he saw to his superiors, then to the mayor's office, and nothing changed. In 1970 he went to the New York Times, and the newspaper printed a front page story on the payments. The city set up the Knapp Commission to investigate. In February 1971, during a drug raid, Serpico was shot in the face while his fellow officers stood nearby and did not help him. He survived, deaf in one ear and with bullet fragments in his head. On December 14, 1971, he put on his only suit and testified before the commission for three hours. He said police corruption could not exist unless it was tolerated higher up, and that no honest officer could speak without fear of reprisal. He left the department the next year and lived abroad for a decade. He gave up his career, his safety, and the trust of the men he had served with.",
+   "contested": "Whether the officers with him during the 1971 shooting deliberately failed to help him has never been proven either way.",
+   "sources": [
+    "https://progressive.org/latest/fifty-years-since-frank-serpico-exposed-new-york-cords-211015/",
+    "https://www.wetheitalians.com/news/honest-cop-frank-serpico-still-fighting-truth-50-years-after-exposing-nypd-corruption-knapp-commission",
+    "https://en.wikipedia.org/wiki/Knapp_Commission"
+   ]
+  },
+  {
+   "id": "eugene-lazowski",
+   "name": "Eugene Lazowski",
+   "blurb": "Faked a typhus epidemic to keep the Germans out of a dozen Polish villages",
+   "month": 12,
+   "day": 16,
+   "year": 2006,
+   "anchor_reason": "The day he died, in Eugene, Oregon, at ninety-three.",
+   "date_confidence": "verified",
+   "story": "Eugene Lazowski was a young Polish doctor in the town of Rozwadów during the German occupation. A friend from medical school, Stanisław Matulewicz, had noticed something about the standard blood test for typhus. If you injected a person with a dead strain of a harmless bacterium, their blood would test positive for typhus without making them sick. The Germans feared typhus and would not send people from an infected area to labour camps or the front. So the two doctors began injecting villagers and sending their blood samples to German laboratories. The results came back positive. The Germans declared the area an epidemic zone and stayed away. Lazowski timed the injections so the case numbers rose in winter and fell in summer, the way a real outbreak would. He kept it up for about three years. Around eight thousand people in a dozen villages were spared. He also passed medicine through a fence to Jews in the ghetto behind his house. After the war he moved to Chicago and became a professor of pediatrics. He told almost no one what he had done. He risked being shot, along with his family, every time he sent a sample.",
+   "contested": "The figure of eight thousand people saved is an estimate and cannot be checked against records.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Eugene_Lazowski",
+    "https://www.timesofisrael.com/how-a-faked-typhus-outbreak-spared-8000-poles-from-the-nazis/",
+    "https://www.raoulwallenberg.net/saviors/polish/how-two-polish-doctors-outsmarted-the-nazis-by-engineering-a-fake-typhus-outbreak/"
+   ]
+  },
+  {
+   "id": "li-wenliang",
+   "name": "Li Wenliang",
+   "blurb": "Wuhan eye doctor who warned colleagues about a new virus and was silenced",
+   "month": 12,
+   "day": 30,
+   "year": 2019,
+   "anchor_reason": "The evening he posted the warning to his medical school group chat.",
+   "date_confidence": "verified",
+   "story": "Li Wenliang was a thirty-three year old eye doctor at Wuhan Central Hospital. On December 30, 2019, he saw a laboratory report on a patient that pointed to a coronavirus like the one that caused SARS. Seven people from a local seafood market were already isolated in his hospital. That evening he posted the report and a lung scan to a private chat group of his old medical school classmates and told them to protect themselves and their families. He asked them to keep it quiet. Someone passed it on, and by the next day it was all over the Chinese internet. On January 3 the police called him in and made him sign a statement admitting he had spread false rumours and disturbed public order. He went back to work. A week later he treated a patient with glaucoma who turned out to be infected. Li fell ill, and on February 7, 2020, he died of the disease he had warned about. The government later cleared his name and called him a martyr. He gave up his safety with the police and then his life to tell his friends the truth.",
+   "contested": null,
+   "sources": [
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30382-2/fulltext",
+    "https://www.chinalawtranslate.com/en/li-wenliang-report/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7119451/"
+   ]
+  },
+  {
+   "id": "roberto-clemente",
+   "name": "Roberto Clemente",
+   "blurb": "Baseball star who died flying earthquake relief to Nicaragua himself",
+   "month": 12,
+   "day": 31,
+   "year": 1972,
+   "anchor_reason": "The night his overloaded cargo plane crashed off Puerto Rico on the way to Nicaragua.",
+   "date_confidence": "verified",
+   "story": "Roberto Clemente was the right fielder for the Pittsburgh Pirates and one of the best players of his time. He grew up poor in Puerto Rico and never forgot it. On September 30, 1972, he got his three thousandth hit, in what turned out to be his last regular season at bat. On December 23 an earthquake flattened Managua, the capital of Nicaragua, and killed thousands. Clemente had been there weeks earlier and knew people in the city. He organised relief flights from Puerto Rico. Then he heard that the supplies were being stolen by soldiers of the Nicaraguan government before they reached anyone. He decided to fly with the next load himself, so nobody would dare take it. The only plane he could get on New Year's Eve was an old DC-7 cargo plane with a poor maintenance record, loaded about two tonnes over its limit. It went down in the sea minutes after takeoff on the night of December 31, 1972. All five people on board died. His body was never found. Baseball put him in the Hall of Fame the next year. He gave his life to make sure food and medicine reached strangers.",
+   "contested": null,
+   "sources": [
+    "https://www.history.com/this-day-in-history/december-31/baseball-star-dies-in-plane-crash",
+    "https://baseballhall.org/discover/inside-pitch/clemente-final-hit",
+    "https://en.wikipedia.org/wiki/1972_Puerto_Rico_DC-7_crash"
+   ]
+  }
+ ]
+}

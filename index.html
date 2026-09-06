@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiet Heroes</title>
+<meta name="description" content="One person a day who did the right thing when nobody was watching. Large type, read aloud.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Overpass:wght@400;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to today's hero</a>
+<div class="road">
+  <nav class="site-nav" aria-label="Site">
+    <a class="home" href="./">Quiet Heroes</a>
+    <a href="./" aria-current="page">Today</a>
+    <a href="browse.html">Browse all</a>
+  </nav>
+
+  <main id="main">
+    <span class="kicker" id="kicker">Today's hero</span>
+    <h1 class="hero-name" id="hero-name">Loading</h1>
+    <p class="hero-blurb" id="hero-blurb"></p>
+    <p class="hero-date" id="hero-date"></p>
+
+    <div class="play-row">
+      <button class="play" id="play" type="button" aria-pressed="false" aria-label="Play the story" disabled>
+        <span class="icon" aria-hidden="true">&#9654;</span>
+        <span class="label">Play story</span>
+      </button>
+      <span class="play-status" id="play-status" aria-live="polite"></span>
+    </div>
+    <audio id="audio" preload="none"></audio>
+
+    <div class="hero-story" id="hero-story"></div>
+
+    <div class="sign" id="hero-notes"></div>
+
+    <nav class="pager" id="pager" aria-label="Previous and next hero"></nav>
+
+    <section class="next-up" aria-labelledby="next-heading">
+      <h2 id="next-heading">Next up</h2>
+      <ul class="strip" id="strip"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>This list started from Karthik Balasubramanian's own heroes: people who did the right thing when nobody was watching. It is for his wife, his students, and anyone who wants one such person a day. Suggestions for the calendar are welcome.</p>
+    <p><a href="browse.html">All heroes by month</a> &middot; <a href="heroes.json">heroes.json</a> &middot; <a href="https://github.com/kartbala/quiet-heroes">Source</a></p>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

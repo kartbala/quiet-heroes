@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Browse all heroes | Quiet Heroes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Overpass:wght@400;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to the list</a>
+<div class="road">
+  <nav class="site-nav" aria-label="Site">
+    <a class="home" href="./">Quiet Heroes</a>
+    <a href="./">Today</a>
+    <a href="browse.html" aria-current="page">Browse all</a>
+  </nav>
+
+  <main id="main">
+    <span class="kicker">All heroes by month</span>
+    <h1>The whole year</h1>
+    <p class="hero-date" id="count"></p>
+    <ul class="month-jump" id="month-jump" aria-label="Jump to month"></ul>
+    <div id="months"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>This list started from Karthik Balasubramanian's own heroes. Suggestions for the calendar are welcome.</p>
+    <p><a href="./">Today's hero</a> &middot; <a href="heroes.json">heroes.json</a></p>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

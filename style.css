@@ -1,0 +1,179 @@
+/* Quiet Heroes -- signage language borrowed from balasubramanian.org.
+   Maximum legibility is the aesthetic. White on near-black, one yellow. */
+
+:root {
+  --asphalt: #0b0b0d;
+  --headlight: #ffffff;
+  --retro-yellow: #ffd100;
+  --lane-gray: #b9b9be;
+  --guide-green: #4cbb7f;
+  --panel: #131316;
+  --rule: #2a2a2e;
+
+  --display: "Overpass", "Helvetica Neue", Arial, sans-serif;
+  --body: "Atkinson Hyperlegible", "Overpass", Arial, sans-serif;
+
+  --sign-border: 3px solid var(--headlight);
+  --sign-radius: 22px;
+  --measure: 60rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 21px; }
+
+body {
+  margin: 0;
+  background: var(--asphalt);
+  color: var(--headlight);
+  font-family: var(--body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: var(--display);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  margin: 0 0 0.4em 0;
+  text-wrap: balance;
+}
+
+a { color: var(--retro-yellow); text-decoration-thickness: 0.09em; text-underline-offset: 0.18em; }
+a:hover, a:focus-visible { color: var(--headlight); }
+
+:focus-visible { outline: 5px solid var(--retro-yellow); outline-offset: 4px; border-radius: 6px; }
+::selection { background: var(--retro-yellow); color: var(--asphalt); }
+
+.skip-link {
+  position: absolute; left: -9999px; z-index: 10;
+  background: var(--retro-yellow); color: var(--asphalt);
+  padding: 0.8em 1.4em; font-family: var(--display); font-weight: 800;
+}
+.skip-link:focus { left: 0; top: 0; }
+
+.road { max-width: var(--measure); margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2.6rem); }
+
+/* --- Header ------------------------------------------------------------ */
+.site-nav {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 1.6rem;
+  padding: 1.2rem 0; border-bottom: 1px solid var(--rule);
+  font-family: var(--display); font-weight: 700;
+}
+.site-nav .home { color: var(--headlight); text-decoration: none; margin-right: auto; font-size: 1.25rem; }
+.site-nav a { text-decoration: none; font-size: 1.1rem; padding: 0.2em 0; }
+.site-nav a[aria-current="page"] { color: var(--headlight); border-bottom: 4px solid var(--retro-yellow); }
+
+/* --- Today's hero -------------------------------------------------------- */
+.kicker {
+  display: block; font-family: var(--display); font-weight: 700;
+  font-size: 1.15rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--retro-yellow); margin: 2rem 0 0.8rem;
+}
+
+.hero-name { font-size: clamp(3.05rem, 8.5vw, 5rem); margin-bottom: 0.3em; }
+/* 3.05rem = 64px at the 21px base; 8.5vw = 87px at 1024 wide */
+
+.hero-blurb {
+  font-family: var(--display); font-weight: 400;
+  font-size: clamp(1.45rem, 3.2vw, 1.9rem); line-height: 1.3;
+  color: var(--lane-gray); margin: 0 0 1.4rem; max-width: 30em;
+}
+
+.hero-date { font-size: 1.2rem; color: var(--lane-gray); margin: 0 0 1.6rem; }
+.hero-date strong { color: var(--headlight); }
+
+.play-row { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.4rem; margin: 0 0 2rem; }
+
+.play {
+  appearance: none; -webkit-appearance: none;
+  min-height: 84px; min-width: 15rem;
+  padding: 0 2rem 0 1.6rem;
+  display: inline-flex; align-items: center; gap: 0.8rem;
+  background: var(--retro-yellow); color: var(--asphalt);
+  border: 4px solid var(--retro-yellow); border-radius: 16px;
+  font-family: var(--display); font-weight: 800; font-size: 1.6rem;
+  letter-spacing: 0.02em; cursor: pointer;
+  transition: transform 120ms ease, background 120ms ease;
+}
+.play:hover { transform: translateY(-2px); }
+.play:active { transform: translateY(1px); }
+.play[aria-pressed="true"] { background: var(--asphalt); color: var(--retro-yellow); }
+.play .icon { font-size: 1.5em; line-height: 1; }
+.play[disabled] { opacity: 0.45; cursor: default; transform: none; }
+
+.play-status { font-size: 1.15rem; color: var(--lane-gray); min-height: 1.5em; }
+
+.hero-story {
+  font-size: clamp(1.45rem, 2.6vw, 1.62rem); /* 30.5px to 34px */
+  line-height: 1.55; max-width: 30em;
+}
+.hero-story p { margin: 0 0 1em; }
+
+.sign {
+  display: block; background: var(--panel); border: var(--sign-border);
+  border-radius: var(--sign-radius); padding: clamp(1.2rem, 3vw, 1.8rem) clamp(1.3rem, 3.5vw, 2.2rem);
+  color: var(--headlight); text-decoration: none; margin: 1.6rem 0;
+}
+.sign h2 { font-size: 1.25rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--retro-yellow); margin-bottom: 0.5em; }
+.sign p { margin: 0 0 0.6em; font-size: 1.05rem; color: var(--lane-gray); }
+.sign p:last-child { margin-bottom: 0; }
+.sign ul { margin: 0; padding-left: 1.3em; font-size: 1.05rem; }
+.sign li { margin: 0.35em 0; overflow-wrap: anywhere; }
+
+/* --- Next up strip -------------------------------------------------------- */
+.next-up { margin: 3rem 0; }
+.next-up h2 { font-size: 1.5rem; margin-bottom: 0.8em; }
+.strip { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.9rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(17rem, 100%), 1fr)); }
+.strip a {
+  display: block; height: 100%; text-decoration: none; color: var(--headlight);
+  background: var(--panel); border: var(--sign-border); border-radius: 16px;
+  padding: 1rem 1.2rem; transition: border-color 120ms ease, transform 120ms ease;
+}
+.strip a:hover, .strip a:focus-visible { border-color: var(--retro-yellow); transform: translateY(-3px); }
+.strip .when { display: block; font-family: var(--display); font-weight: 700;
+  font-size: 1rem; color: var(--retro-yellow); letter-spacing: 0.06em; text-transform: uppercase; }
+.strip .who { display: block; font-family: var(--display); font-weight: 800; font-size: 1.5rem; line-height: 1.15; margin: 0.25em 0; }
+.strip .what { display: block; font-size: 1rem; color: var(--lane-gray); line-height: 1.35; }
+
+.pager { display: flex; flex-wrap: wrap; gap: 1rem; margin: 2rem 0; }
+.pager a { flex: 1 1 14rem; text-decoration: none; font-family: var(--display); font-weight: 700;
+  font-size: 1.2rem; border: 3px solid var(--rule); border-radius: 14px; padding: 0.9rem 1.2rem; color: var(--headlight); }
+.pager a:hover, .pager a:focus-visible { border-color: var(--retro-yellow); }
+.pager a span { display: block; color: var(--lane-gray); font-size: 0.95rem; font-weight: 400; }
+
+/* --- Browse --------------------------------------------------------------- */
+.month { margin: 2.6rem 0; }
+.month h2 { font-size: clamp(1.8rem, 4vw, 2.4rem); border-bottom: 3px solid var(--retro-yellow); display: inline-block; padding-bottom: 0.1em; }
+.month ol { list-style: none; margin: 0; padding: 0; }
+.month li { border-top: 1px solid var(--rule); }
+.month li:last-child { border-bottom: 1px solid var(--rule); }
+.month a {
+  display: grid; grid-template-columns: 5.2rem 1fr; gap: 0.2rem 1.2rem; align-items: baseline;
+  padding: 1rem 0.4rem; text-decoration: none; color: var(--headlight);
+}
+.month a:hover, .month a:focus-visible { background: var(--panel); }
+.month .day { font-family: var(--display); font-weight: 800; font-size: 1.9rem; color: var(--retro-yellow); text-align: right; }
+.month .who { font-family: var(--display); font-weight: 800; font-size: 1.45rem; line-height: 1.15; }
+.month .what { grid-column: 2; font-size: 1.05rem; color: var(--lane-gray); }
+@media (max-width: 560px) {
+  .month a { grid-template-columns: 1fr; }
+  .month .day { text-align: left; }
+  .month .what { grid-column: 1; }
+}
+
+.month-jump { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.5rem 0 0; padding: 0; list-style: none; }
+.month-jump a { display: inline-block; text-decoration: none; font-family: var(--display); font-weight: 700;
+  font-size: 1.05rem; border: 2px solid var(--rule); border-radius: 10px; padding: 0.45em 0.9em; color: var(--headlight); }
+.month-jump a:hover, .month-jump a:focus-visible { border-color: var(--retro-yellow); }
+
+.site-footer { margin-top: 4rem; padding: 2rem 0 3rem; border-top: 1px solid var(--rule); color: var(--lane-gray); font-size: 1rem; }
+.site-footer p { max-width: 36em; }
+
+.hidden { display: none !important; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
